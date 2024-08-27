@@ -3,4 +3,8 @@ pandas
 scikit-learn
 joblib
 matplotlib
+seaborn
+flask
+ipykernel
+openpyxl
 -e .
