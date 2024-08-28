@@ -1,0 +1,2094 @@
+Airline,Source,Destination,Total_Stops,Additional_Info,Price,day,month,Duration_min
+Jet Airways,Banglore,New Delhi,1 stop,No info,17996.0,6,3,1455
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,6,6,140
+IndiGo,Kolkata,Banglore,non-stop,No info,4462.0,18,3,170
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2228.0,24,3,90
+SpiceJet,Banglore,Delhi,non-stop,No info,4991.0,27,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,7670.0,18,5,640
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,14086.0,9,3,630
+IndiGo,Delhi,Cochin,1 stop,No info,6386.0,12,6,345
+IndiGo,Delhi,Cochin,1 stop,No info,6628.0,3,6,570
+Air India,Delhi,Cochin,non-stop,No info,6934.0,18,5,180
+Air India,Banglore,New Delhi,1 stop,No info,8714.0,15,3,385
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,18,5,1590
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,1530
+Air India,Delhi,Cochin,non-stop,No info,4729.0,3,4,180
+Air India,Mumbai,Hyderabad,non-stop,No info,3625.0,27,5,90
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10539.0,6,6,1005
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,395
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,27,5,150
+Air India,Delhi,Cochin,non-stop,No info,5201.0,27,6,180
+IndiGo,Kolkata,Banglore,1 stop,No info,5170.0,12,5,290
+Air Asia,Kolkata,Banglore,1 stop,No info,6857.0,1,5,220
+IndiGo,Banglore,New Delhi,1 stop,No info,6220.0,3,3,290
+IndiGo,Delhi,Cochin,1 stop,No info,5775.0,12,6,345
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,12,6,835
+Air India,Delhi,Cochin,2 stops,No info,12488.0,12,6,1470
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,21,5,775
+Jet Airways,Banglore,New Delhi,1 stop,No info,16736.0,6,3,730
+Jet Airways,Delhi,Cochin,1 stop,No info,15764.0,6,3,745
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,6,5,180
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,6,5,170
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,1,6,600
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,6144.0,12,5,180
+IndiGo,Chennai,Kolkata,non-stop,No info,6482.0,3,3,140
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,11134.0,24,3,975
+Jet Airways,Kolkata,Banglore,1 stop,No info,12681.0,1,4,1335
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,1,6,895
+SpiceJet,Banglore,Delhi,non-stop,No info,3971.0,3,6,170
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,6478.0,3,6,180
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,1225
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,18,5,1430
+Jet Airways,Delhi,Cochin,2 stops,No info,13292.0,9,6,1130
+IndiGo,Banglore,Delhi,non-stop,No info,5780.0,21,6,165
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10919.0,15,6,1320
+Jet Airways,Banglore,New Delhi,1 stop,No info,19225.0,6,3,375
+IndiGo,Delhi,Cochin,1 stop,No info,5054.0,21,5,305
+IndiGo,Delhi,Cochin,1 stop,No info,5894.0,27,6,625
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,13502.0,6,3,640
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2437.0,18,3,80
+Jet Airways,Banglore,New Delhi,1 stop,No info,17261.0,6,3,1475
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,590
+Jet Airways,Banglore,New Delhi,1 stop,No info,13817.0,12,3,710
+Air India,Delhi,Cochin,1 stop,No info,8372.0,3,6,640
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,1,5,90
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2470.0,24,3,85
+Jet Airways,Kolkata,Banglore,1 stop,No info,13067.0,15,5,505
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3257.0,27,5,160
+IndiGo,Mumbai,Hyderabad,non-stop,No info,12475.0,1,3,85
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,1,4,150
+Air India,Mumbai,Hyderabad,non-stop,No info,2050.0,18,3,75
+IndiGo,Delhi,Cochin,non-stop,No info,5601.0,9,6,195
+Jet Airways,Delhi,Cochin,1 stop,No info,16079.0,27,5,540
+IndiGo,Delhi,Cochin,1 stop,No info,6069.0,15,5,300
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,15,6,450
+Jet Airways,Banglore,New Delhi,1 stop,No info,27992.0,1,3,875
+Multiple carriers,Delhi,Cochin,1 stop,No info,7354.0,12,6,470
+Jet Airways,Mumbai,Hyderabad,1 stop,No info,22294.0,12,3,815
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,9,5,185
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,1165
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,1,5,800
+Multiple carriers,Delhi,Cochin,1 stop,No info,15135.0,3,3,440
+Multiple carriers,Delhi,Cochin,1 stop,No info,8073.0,15,5,510
+IndiGo,Delhi,Cochin,1 stop,No info,5073.0,27,3,300
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,3,5,175
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1225
+Multiple carriers,Delhi,Cochin,1 stop,No info,10877.0,6,6,505
+Multiple carriers,Delhi,Cochin,1 stop,No info,8073.0,9,5,720
+IndiGo,Kolkata,Banglore,non-stop,No info,5644.0,1,5,155
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,9,5,365
+Air India,Delhi,Cochin,2 stops,No info,15113.0,3,3,1545
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,12,6,1040
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,27,6,375
+Air India,Delhi,Cochin,2 stops,No info,10861.0,21,5,1395
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,18,5,1005
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,330
+Air India,Delhi,Cochin,1 stop,No info,8907.0,15,6,795
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,21,5,810
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,12,5,910
+Jet Airways,Delhi,Cochin,1 stop,No info,14924.0,3,6,715
+Air India,Delhi,Cochin,1 stop,No info,7258.0,27,5,955
+Air India,Chennai,Kolkata,non-stop,No info,4667.0,1,6,135
+Air India,Delhi,Cochin,1 stop,No info,11038.0,6,3,1565
+Air India,Banglore,Delhi,non-stop,No info,6961.0,18,6,170
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,24,6,1615
+Multiple carriers,Delhi,Cochin,1 stop,No info,13587.0,24,6,480
+Air India,Kolkata,Banglore,2 stops,No info,11411.0,12,5,1045
+Air India,Kolkata,Banglore,1 stop,No info,10203.0,1,5,555
+IndiGo,Chennai,Kolkata,non-stop,No info,3858.0,1,6,145
+Air India,Banglore,New Delhi,1 stop,No info,11077.0,9,3,1330
+Air India,Delhi,Cochin,1 stop,No info,13348.0,3,3,1565
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,9,4,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,6106.0,9,4,520
+Air India,Delhi,Cochin,1 stop,No info,8907.0,27,6,795
+Air India,Delhi,Cochin,2 stops,No info,9181.0,24,6,1275
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,18,5,1200
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,1,5,150
+Air India,Banglore,New Delhi,2 stops,No info,10835.0,18,3,2025
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,9,5,750
+Jet Airways,Delhi,Cochin,2 stops,No info,13014.0,6,6,535
+IndiGo,Delhi,Cochin,non-stop,No info,6885.0,9,3,195
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,21,5,1545
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,6,5,140
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2470.0,24,3,90
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,21,6,145
+Jet Airways,Banglore,New Delhi,1 stop,No info,26890.0,1,3,625
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,9181.0,21,3,1365
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,27,6,155
+IndiGo,Kolkata,Banglore,1 stop,No info,3717.0,18,5,265
+Jet Airways,Delhi,Cochin,1 stop,No info,17234.0,6,3,1280
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,9,6,170
+Jet Airways,Banglore,New Delhi,1 stop,No info,14815.0,6,3,1420
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,9,6,170
+Jet Airways,Banglore,New Delhi,1 stop,No info,26890.0,1,3,760
+SpiceJet,Chennai,Kolkata,non-stop,No info,7718.0,1,3,140
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,9,6,140
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,18,5,175
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,1620
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,3,6,135
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,12,6,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,10197.0,9,5,540
+Air India,Kolkata,Banglore,non-stop,No info,4145.0,12,6,155
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,2175.0,15,5,90
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,12,6,360
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,600
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10703.0,12,5,1685
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,9,6,140
+Air India,Delhi,Cochin,2 stops,No info,9968.0,3,6,1595
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,21,5,1025
+Air India,Banglore,Delhi,non-stop,No info,6961.0,24,6,165
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1575
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,9,4,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,27,6,1655
+IndiGo,Delhi,Cochin,1 stop,No info,7514.0,27,5,895
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,15,6,925
+IndiGo,Chennai,Kolkata,non-stop,No info,4332.0,18,3,140
+IndiGo,Delhi,Cochin,1 stop,No info,6818.0,15,5,425
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,1840.0,27,3,90
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,15,5,155
+Air India,Banglore,New Delhi,1 stop,No info,10657.0,9,3,1015
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,3,5,140
+Jet Airways,Delhi,Cochin,2 stops,No info,14300.0,15,6,970
+IndiGo,Delhi,Cochin,1 stop,No info,7160.0,27,4,425
+Multiple carriers,Delhi,Cochin,1 stop,No info,12192.0,24,6,910
+Air Asia,Kolkata,Banglore,non-stop,No info,3807.0,24,6,150
+IndiGo,Delhi,Cochin,1 stop,No info,6674.0,1,6,635
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,1,6,630
+Air India,Delhi,Cochin,2 stops,No info,10441.0,15,6,1275
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,6,6,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,27,5,760
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,9,6,740
+Air India,Delhi,Cochin,1 stop,No info,10840.0,9,3,520
+Multiple carriers,Delhi,Cochin,1 stop,No info,9526.0,15,6,455
+Air India,Delhi,Cochin,1 stop,No info,7480.0,27,6,965
+Multiple carriers,Delhi,Cochin,1 stop,No info,8614.0,15,6,470
+Jet Airways,Delhi,Cochin,2 stops,No info,14657.0,27,5,1620
+IndiGo,Kolkata,Banglore,non-stop,No info,5224.0,18,5,150
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,6,1585
+Multiple carriers,Delhi,Cochin,1 stop,No info,10529.0,6,5,690
+Multiple carriers,Delhi,Cochin,1 stop,No info,8099.0,15,5,600
+IndiGo,Delhi,Cochin,1 stop,No info,6896.0,21,5,630
+IndiGo,Delhi,Cochin,1 stop,No info,6147.0,9,5,290
+Air India,Delhi,Cochin,2 stops,No info,13223.0,27,5,500
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,3,6,135
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,1235
+Multiple carriers,Delhi,Cochin,1 stop,No info,11622.0,3,6,585
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,27,6,140
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,6,4,155
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,27,6,620
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,27,5,180
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,27,6,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,12,6,465
+Jet Airways,Banglore,New Delhi,1 stop,No info,16736.0,6,3,730
+Multiple carriers,Delhi,Cochin,3 stops,No info,16294.0,15,5,565
+Jet Airways,Banglore,New Delhi,1 stop,No info,17524.0,15,3,315
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,13029.0,18,5,1615
+Air India,Delhi,Cochin,1 stop,No info,18959.0,9,3,635
+Vistara,Banglore,New Delhi,non-stop,No info,21520.0,1,3,160
+SpiceJet,Banglore,Delhi,non-stop,No info,3971.0,6,4,175
+Air India,Banglore,New Delhi,1 stop,No info,5092.0,21,3,1265
+Air India,Delhi,Cochin,non-stop,No info,6094.0,1,6,170
+Vistara,Kolkata,Banglore,1 stop,No info,8452.0,12,6,1065
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,27,5,155
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,18,6,90
+Air India,Delhi,Cochin,2 stops,No info,10021.0,9,4,1545
+Jet Airways,Delhi,Cochin,2 stops,No info,13882.0,6,6,1000
+Jet Airways,Kolkata,Banglore,1 stop,No info,13759.0,24,3,1575
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,18,6,160
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5177.0,3,4,1570
+Jet Airways,Kolkata,Banglore,1 stop,No info,12681.0,1,4,800
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1355
+IndiGo,Chennai,Kolkata,non-stop,No info,3850.0,6,5,140
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,6144.0,21,4,180
+Air India,Kolkata,Banglore,non-stop,No info,4145.0,27,5,155
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,3,5,160
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,1,4,870
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,9,6,480
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10577.0,9,6,520
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,27,6,90
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8529.0,12,6,1055
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,15,5,1550
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,6,6,960
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,15,6,175
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,15,5,1660
+Air Asia,Banglore,New Delhi,non-stop,No info,7074.0,3,3,170
+Vistara,Kolkata,Banglore,1 stop,No info,8452.0,24,5,1580
+IndiGo,Kolkata,Banglore,non-stop,No info,5224.0,9,6,155
+Jet Airways,Delhi,Cochin,1 stop,No info,15764.0,6,3,520
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,9,6,1285
+IndiGo,Banglore,New Delhi,non-stop,No info,8033.0,15,3,170
+IndiGo,Kolkata,Banglore,1 stop,No info,6218.0,12,5,325
+Jet Airways,Banglore,New Delhi,1 stop,No info,17471.0,6,3,1375
+Vistara,Kolkata,Banglore,1 stop,No info,8505.0,1,4,865
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,18,6,155
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,27,5,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,11622.0,27,3,485
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,27,6,390
+Jet Airways,Delhi,Cochin,2 stops,No info,9483.0,21,3,1420
+IndiGo,Banglore,Delhi,non-stop,No info,4990.0,21,6,180
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,1,4,1495
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,27,5,175
+Air Asia,Banglore,Delhi,non-stop,No info,3383.0,21,5,165
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4049.0,21,5,90
+IndiGo,Mumbai,Hyderabad,non-stop,No info,5755.0,3,3,85
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5769.0,21,6,175
+Air India,Kolkata,Banglore,2 stops,No info,12093.0,18,5,875
+Multiple carriers,Delhi,Cochin,1 stop,No info,15135.0,3,3,625
+Air India,Delhi,Cochin,1 stop,No info,6902.0,21,3,640
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3257.0,15,5,160
+Multiple carriers,Delhi,Cochin,1 stop,No info,6673.0,27,3,455
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,1,4,1025
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,7832.0,21,3,1050
+Air Asia,Kolkata,Banglore,non-stop,No info,5645.0,21,4,150
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,15,6,170
+Air India,Delhi,Cochin,2 stops,No info,10651.0,1,6,1410
+Multiple carriers,Delhi,Cochin,1 stop,No info,9794.0,9,5,690
+IndiGo,Delhi,Cochin,1 stop,No info,6938.0,27,3,480
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,6,6,1375
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,1,5,575
+IndiGo,Delhi,Cochin,1 stop,No info,7503.0,15,5,750
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,18,5,635
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,6960.0,27,3,925
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,1,5,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,15200.0,9,3,620
+Multiple carriers,Delhi,Cochin,1 stop,No info,17057.0,3,3,505
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,9328.0,21,3,2240
+Jet Airways,Delhi,Cochin,1 stop,No info,15554.0,9,5,715
+Jet Airways,Kolkata,Banglore,1 stop,No info,14178.0,24,5,1010
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,6,6,170
+IndiGo,Delhi,Cochin,1 stop,No info,6171.0,24,4,665
+IndiGo,Kolkata,Banglore,1 stop,No info,4226.0,18,5,220
+Jet Airways,Delhi,Cochin,1 stop,No info,15554.0,18,5,395
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,6,6,570
+IndiGo,Delhi,Cochin,1 stop,No info,6093.0,3,6,860
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,24,5,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,7670.0,18,5,900
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6007.0,27,6,490
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,12,5,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,1,6,490
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,1,6,140
+Jet Airways,Delhi,Cochin,2 stops,No info,13292.0,12,6,1130
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,9,6,715
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,21,5,685
+IndiGo,Kolkata,Banglore,1 stop,No info,4226.0,1,4,220
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,27,3,165
+GoAir,Kolkata,Banglore,1 stop,No info,6095.0,9,5,495
+IndiGo,Banglore,Delhi,non-stop,No info,4990.0,6,6,175
+IndiGo,Delhi,Cochin,1 stop,No info,8513.0,3,3,675
+IndiGo,Banglore,New Delhi,1 stop,No info,6351.0,9,3,300
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,9134.0,15,3,625
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,6,6,90
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2017.0,12,5,90
+IndiGo,Kolkata,Banglore,1 stop,No info,4268.0,9,4,290
+IndiGo,Delhi,Cochin,non-stop,No info,5000.0,21,6,195
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,27,5,180
+IndiGo,Banglore,Delhi,non-stop,No info,4591.0,6,6,170
+GoAir,Delhi,Cochin,1 stop,No info,7870.0,6,6,310
+IndiGo,Delhi,Cochin,1 stop,No info,6316.0,9,6,630
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,6,5,140
+Jet Airways,Delhi,Cochin,1 stop,No info,16289.0,9,3,1610
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,6,6,810
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,27,6,540
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,400
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7757.0,6,5,665
+IndiGo,Delhi,Cochin,non-stop,No info,6015.0,15,4,195
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,15,6,865
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,12,6,180
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,27,5,155
+Vistara,Kolkata,Banglore,1 stop,No info,9870.0,9,6,385
+IndiGo,Delhi,Cochin,1 stop,No info,6582.0,27,6,315
+Air Asia,Banglore,New Delhi,non-stop,No info,4482.0,24,3,165
+Jet Airways,Delhi,Cochin,2 stops,No info,14300.0,27,6,1705
+Air India,Kolkata,Banglore,2 stops,No info,11752.0,9,6,1255
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,450
+Air India,Delhi,Cochin,2 stops,No info,12940.0,1,6,1470
+Air Asia,Banglore,Delhi,non-stop,No info,3383.0,27,4,170
+Vistara,Kolkata,Banglore,1 stop,No info,12102.0,24,3,1750
+IndiGo,Delhi,Cochin,1 stop,No info,8854.0,9,5,975
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,13469.0,6,6,575
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,27,6,735
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,6,155
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,27,6,140
+IndiGo,Delhi,Cochin,1 stop,No info,7503.0,18,5,625
+Vistara,Kolkata,Banglore,1 stop,No info,7770.0,1,4,1595
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3815.0,27,3,160
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,12,4,170
+Jet Airways,Delhi,Cochin,1 stop,No info,12719.0,21,3,995
+Jet Airways,Kolkata,Banglore,1 stop,No info,10953.0,6,5,1450
+Air Asia,Kolkata,Banglore,non-stop,No info,5989.0,18,5,150
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,12,3,1585
+Multiple carriers,Delhi,Cochin,1 stop,No info,7198.0,24,6,390
+Air India,Kolkata,Banglore,2 stops,No info,8366.0,1,5,535
+Multiple carriers,Delhi,Cochin,1 stop,No info,7574.0,27,3,870
+Jet Airways,Delhi,Cochin,1 stop,No info,17024.0,6,3,1575
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,3,5,155
+Air India,Delhi,Cochin,1 stop,No info,11522.0,6,3,1535
+Multiple carriers,Delhi,Cochin,2 stops,No info,18275.0,24,6,460
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3332.0,27,3,140
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,21,5,475
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,12,5,1265
+IndiGo,Delhi,Cochin,1 stop,No info,6316.0,9,6,570
+Multiple carriers,Delhi,Cochin,1 stop,No info,10667.0,27,3,605
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,15,6,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,27,5,490
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,15,3,85
+Air Asia,Banglore,New Delhi,non-stop,No info,5615.0,15,3,170
+Air India,Banglore,New Delhi,non-stop,No info,4441.0,24,3,170
+Jet Airways,Banglore,New Delhi,1 stop,No info,20800.0,1,3,1220
+Multiple carriers,Delhi,Cochin,1 stop,No info,15603.0,6,3,480
+Multiple carriers,Delhi,Cochin,1 stop,No info,7933.0,6,6,660
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,475
+Jet Airways,Delhi,Cochin,non-stop,No info,9564.0,24,6,195
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,18,5,665
+IndiGo,Kolkata,Banglore,1 stop,No info,5930.0,12,6,315
+Air India,Delhi,Cochin,3 stops,No info,9128.0,21,3,2280
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,9134.0,15,3,570
+Air India,Delhi,Cochin,non-stop,No info,6934.0,3,6,180
+Air Asia,Delhi,Cochin,1 stop,No info,13470.0,9,6,340
+IndiGo,Kolkata,Banglore,1 stop,No info,7228.0,12,5,315
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,900
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,6,6,1485
+IndiGo,Kolkata,Banglore,1 stop,No info,11319.0,6,5,295
+SpiceJet,Delhi,Cochin,1 stop,No info,9748.0,6,3,310
+IndiGo,Banglore,Delhi,non-stop,No info,4591.0,6,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,7740.0,24,5,455
+Multiple carriers,Delhi,Cochin,1 stop,No info,15078.0,9,5,480
+SpiceJet,Banglore,New Delhi,non-stop,No check-in baggage included,4273.0,24,3,170
+Jet Airways,Delhi,Cochin,2 stops,No info,13376.0,6,6,830
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,3,6,155
+Air India,Kolkata,Banglore,2 stops,No info,12718.0,24,5,955
+IndiGo,Delhi,Cochin,1 stop,No info,8227.0,27,3,350
+Multiple carriers,Delhi,Cochin,1 stop,No info,7845.0,27,3,470
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1505
+Air India,Kolkata,Banglore,1 stop,No info,7452.0,1,5,1700
+Air India,Delhi,Cochin,2 stops,No info,12961.0,6,6,1795
+IndiGo,Delhi,Cochin,2 stops,No info,8146.0,9,3,880
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,21,5,365
+Air India,Banglore,Delhi,non-stop,No info,5228.0,6,5,165
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,3,4,175
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7757.0,6,5,775
+Jet Airways,Delhi,Cochin,2 stops,No info,13376.0,27,6,1320
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,6,5,685
+SpiceJet,Chennai,Kolkata,non-stop,No info,3859.0,24,3,155
+Multiple carriers,Delhi,Cochin,1 stop,No info,8266.0,9,5,455
+Multiple carriers,Delhi,Cochin,1 stop,No info,7354.0,6,6,520
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11627.0,3,6,1105
+Air Asia,Kolkata,Banglore,1 stop,No info,6810.0,6,6,710
+Air India,Delhi,Cochin,2 stops,No info,8577.0,9,4,1115
+Jet Airways,Kolkata,Banglore,1 stop,No info,13759.0,24,3,1655
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,21,4,175
+Air India,Delhi,Cochin,2 stops,No info,7711.0,9,4,2240
+IndiGo,Delhi,Cochin,1 stop,No info,8784.0,27,5,965
+Vistara,Kolkata,Banglore,1 stop,No info,9870.0,24,5,1640
+Air India,Delhi,Cochin,non-stop,No info,6934.0,21,4,180
+IndiGo,Chennai,Kolkata,non-stop,No info,6297.0,15,3,145
+IndiGo,Kolkata,Banglore,1 stop,No info,4864.0,12,6,330
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,6,3,140
+Air India,Delhi,Cochin,1 stop,No info,5683.0,9,4,705
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,8728.0,21,3,1600
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,12,6,180
+Air Asia,Kolkata,Banglore,1 stop,No info,5192.0,12,6,710
+Air India,Delhi,Cochin,2 stops,No info,14431.0,15,5,1490
+Multiple carriers,Delhi,Cochin,1 stop,No info,15373.0,1,5,615
+Jet Airways,Delhi,Cochin,non-stop,No info,9564.0,18,5,195
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,2385.0,1,5,90
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,9,4,180
+Air India,Delhi,Cochin,2 stops,No info,13591.0,9,5,1730
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,27,6,660
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,1,5,165
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,27,5,175
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,9,6,135
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,925
+IndiGo,Delhi,Cochin,1 stop,No info,10394.0,3,3,320
+Multiple carriers,Delhi,Cochin,1 stop,No info,13587.0,15,6,720
+Air India,Banglore,New Delhi,non-stop,No info,10216.0,3,3,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,13542.0,21,3,845
+Air India,Delhi,Cochin,2 stops,No info,12488.0,3,6,1485
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,13029.0,9,5,810
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2227.0,1,4,90
+Jet Airways,Delhi,Cochin,1 stop,No info,15554.0,9,5,395
+Jet Airways,Banglore,New Delhi,1 stop,No info,12284.0,18,3,760
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,24,5,90
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,12,6,185
+IndiGo,Chennai,Kolkata,non-stop,No info,6297.0,12,3,145
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,9,6,335
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,10791.0,24,6,520
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1485
+IndiGo,Delhi,Cochin,1 stop,No info,6027.0,21,5,340
+Air India,Delhi,Cochin,3 stops,No info,15586.0,9,3,2280
+Multiple carriers,Delhi,Cochin,1 stop,No info,7485.0,21,5,760
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,3,6,155
+IndiGo,Kolkata,Banglore,non-stop,No info,4778.0,1,3,165
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,9134.0,15,3,625
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,6,890
+Air India,Banglore,New Delhi,1 stop,No info,14594.0,6,3,480
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2753.0,24,3,80
+GoAir,Delhi,Cochin,1 stop,No info,5140.0,27,4,370
+Air India,Banglore,Delhi,non-stop,No info,6961.0,21,5,180
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,7563.0,6,3,465
+Air India,Banglore,New Delhi,1 stop,No info,9166.0,15,3,500
+Multiple carriers,Delhi,Cochin,1 stop,No info,12524.0,24,6,395
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,15,6,1015
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,13994.0,9,6,505
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1210
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,9,6,180
+Air India,Delhi,Cochin,2 stops,No info,9417.0,12,6,970
+Jet Airways,Banglore,New Delhi,1 stop,1 Long layover,27992.0,1,3,580
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,12,5,345
+IndiGo,Chennai,Kolkata,non-stop,No info,7295.0,3,3,145
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,18,6,90
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,18,6,170
+Air India,Delhi,Cochin,2 stops,No info,11281.0,15,5,1600
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,1,6,1425
+Jet Airways,Delhi,Cochin,non-stop,In-flight meal not included,4256.0,24,6,195
+Multiple carriers,Delhi,Cochin,1 stop,No info,15135.0,6,3,680
+Air India,Kolkata,Banglore,1 stop,No info,8996.0,9,6,245
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,9,6,590
+IndiGo,Delhi,Cochin,1 stop,No info,5298.0,24,4,320
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,18,5,425
+Air India,Banglore,New Delhi,non-stop,No info,11633.0,18,3,165
+Vistara,Kolkata,Banglore,1 stop,No info,8085.0,1,5,1625
+Multiple carriers,Delhi,Cochin,1 stop,No info,7670.0,15,5,615
+Air India,Delhi,Cochin,1 stop,No info,5117.0,1,4,1420
+Air India,Banglore,New Delhi,1 stop,No info,12127.0,12,3,830
+Air India,Banglore,Delhi,non-stop,No info,5228.0,3,5,165
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,9,6,175
+Air India,Kolkata,Banglore,non-stop,No info,31945.0,24,3,155
+Jet Airways,Delhi,Cochin,2 stops,No info,13014.0,3,6,810
+Air India,Mumbai,Hyderabad,non-stop,No info,3100.0,24,6,80
+Air Asia,Banglore,Delhi,non-stop,No info,4282.0,3,6,170
+IndiGo,Chennai,Kolkata,non-stop,No info,3858.0,27,6,145
+Jet Airways,Banglore,New Delhi,1 stop,1 Long layover,31825.0,1,3,890
+IndiGo,Delhi,Cochin,1 stop,No info,5883.0,27,6,415
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,12,4,150
+Air India,Delhi,Cochin,2 stops,No info,10467.0,27,5,1210
+Air India,Mumbai,Hyderabad,2 stops,No info,14219.0,6,3,1795
+Jet Airways,Delhi,Cochin,1 stop,No info,12032.0,27,3,1665
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2228.0,21,3,90
+Air India,Kolkata,Banglore,2 stops,No info,13227.0,1,5,805
+Multiple carriers,Delhi,Cochin,1 stop,No info,8073.0,18,5,780
+Multiple carriers,Delhi,Cochin,1 stop,No info,8601.0,21,3,650
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,24,6,140
+Air India,Banglore,New Delhi,non-stop,No info,19508.0,3,3,165
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,21,5,1685
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1530
+Multiple carriers,Delhi,Cochin,1 stop,No info,10197.0,15,5,540
+Multiple carriers,Delhi,Cochin,1 stop,No info,7723.0,1,6,750
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3573.0,15,5,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,13587.0,12,6,660
+GoAir,Banglore,Delhi,non-stop,No info,4239.0,3,4,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,9,6,720
+IndiGo,Delhi,Cochin,1 stop,No info,6093.0,15,6,810
+GoAir,Banglore,Delhi,non-stop,No info,3398.0,15,5,170
+Air India,Delhi,Cochin,non-stop,No info,6094.0,12,5,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,18,5,775
+GoAir,Banglore,Delhi,non-stop,No info,3419.0,18,6,165
+Air India,Mumbai,Hyderabad,1 stop,No info,10366.0,6,3,965
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,27,5,140
+Air India,Kolkata,Banglore,1 stop,No info,7662.0,9,6,675
+IndiGo,Delhi,Cochin,1 stop,No info,5298.0,15,6,320
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,27,6,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,12537.0,27,3,375
+Multiple carriers,Delhi,Cochin,1 stop,No info,7670.0,9,5,900
+SpiceJet,Banglore,New Delhi,non-stop,No check-in baggage included,4839.0,21,3,175
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,11992.0,6,6,1000
+Air India,Kolkata,Banglore,1 stop,No info,10413.0,24,5,625
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3919.0,3,4,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,6,5,1610
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,6,5,735
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,1,5,1630
+Jet Airways,Delhi,Cochin,2 stops,No info,13775.0,24,6,605
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,365
+Jet Airways,Delhi,Cochin,2 stops,No info,13882.0,12,6,1490
+Jet Airways,Kolkata,Banglore,1 stop,No info,14178.0,24,5,1610
+Air Asia,Kolkata,Banglore,1 stop,No info,5192.0,6,5,955
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,24,3,90
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,18,4,150
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,27,5,165
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,15,5,1415
+Air India,Banglore,Delhi,non-stop,No info,6121.0,3,5,170
+Air India,Delhi,Cochin,1 stop,No info,8669.0,27,6,735
+Air India,Delhi,Cochin,non-stop,No info,6094.0,27,5,185
+Air India,Banglore,New Delhi,non-stop,No info,9481.0,9,3,170
+IndiGo,Kolkata,Banglore,1 stop,No info,4226.0,21,5,240
+Multiple carriers,Delhi,Cochin,1 stop,No info,11622.0,21,3,440
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3919.0,24,4,170
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,6,6,1630
+Air Asia,Kolkata,Banglore,non-stop,No info,4107.0,15,5,150
+Jet Airways,Kolkata,Banglore,1 stop,No info,14231.0,24,3,980
+Multiple carriers,Delhi,Cochin,1 stop,No info,11789.0,12,6,780
+SpiceJet,Kolkata,Banglore,non-stop,No info,4174.0,1,6,150
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,27,6,780
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,12,6,435
+Air India,Delhi,Cochin,2 stops,No info,13465.0,6,6,1470
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,27,5,165
+IndiGo,Chennai,Kolkata,non-stop,No info,3858.0,24,5,140
+Jet Airways,Kolkata,Banglore,1 stop,No info,13759.0,24,3,475
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,3,6,1620
+Jet Airways,Kolkata,Banglore,1 stop,No info,14231.0,24,3,725
+IndiGo,Delhi,Cochin,1 stop,No info,9476.0,27,5,305
+Air India,Banglore,New Delhi,2 stops,No info,8534.0,15,3,1795
+IndiGo,Delhi,Cochin,1 stop,No info,6493.0,3,6,320
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,1655
+Air Asia,Kolkata,Banglore,2 stops,No info,5192.0,1,5,500
+Air India,Chennai,Kolkata,non-stop,No info,4667.0,3,5,135
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,1,4,90
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,24,6,85
+Air India,Delhi,Cochin,1 stop,No info,8907.0,12,6,1590
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1595
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,9,6,135
+Jet Airways,Kolkata,Banglore,1 stop,No info,13364.0,1,4,665
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,6,5,730
+Jet Airways,Kolkata,Banglore,1 stop,No info,12739.0,12,6,1330
+Air India,Delhi,Cochin,2 stops,No info,18211.0,9,3,1485
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,1,5,155
+Jet Airways,Kolkata,Banglore,1 stop,No info,13044.0,12,6,735
+Vistara,Kolkata,Banglore,1 stop,No info,9922.0,9,6,1065
+Multiple carriers Premium economy,Delhi,Cochin,1 stop,No info,11269.0,21,3,570
+Multiple carriers,Delhi,Cochin,1 stop,No info,10261.0,1,6,455
+IndiGo,Delhi,Cochin,1 stop,No info,8854.0,1,5,415
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,27,4,155
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,3,3,890
+Air India,Mumbai,Hyderabad,non-stop,No info,3100.0,27,5,75
+Jet Airways,Banglore,New Delhi,1 stop,No info,26890.0,1,3,570
+Multiple carriers,Delhi,Cochin,3 stops,No info,21829.0,3,3,565
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,12,6,615
+Air India,Kolkata,Banglore,2 stops,No info,13532.0,12,6,1165
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4049.0,6,6,90
+Vistara,Banglore,New Delhi,non-stop,No info,7608.0,3,3,175
+Air India,Banglore,New Delhi,3 stops,No info,12358.0,3,3,1355
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,27,4,165
+Jet Airways,Kolkata,Banglore,1 stop,No info,14178.0,9,6,585
+Multiple carriers,Delhi,Cochin,1 stop,No info,7878.0,27,5,920
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,610
+Jet Airways,Delhi,Cochin,2 stops,No info,16263.0,1,6,505
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,6,4,185
+IndiGo,Delhi,Cochin,1 stop,No info,10482.0,9,3,305
+GoAir,Banglore,Delhi,non-stop,No info,3419.0,3,6,165
+Multiple carriers,Delhi,Cochin,1 stop,No info,11098.0,1,6,845
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5177.0,6,4,825
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,18,6,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11399.0,18,5,540
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,9,5,170
+Air Asia,Kolkata,Banglore,non-stop,No info,5964.0,3,3,150
+Air India,Delhi,Cochin,2 stops,No info,12287.0,3,3,1305
+SpiceJet,Delhi,Cochin,1 stop,No check-in baggage included,5158.0,21,5,270
+Vistara,Chennai,Kolkata,non-stop,No info,3687.0,24,6,135
+Air India,Kolkata,Banglore,1 stop,No info,10203.0,6,6,805
+Air India,Delhi,Cochin,3 stops,No info,10703.0,1,6,2280
+Air India,Mumbai,Hyderabad,non-stop,No info,3625.0,1,5,80
+Multiple carriers,Delhi,Cochin,1 stop,No info,9856.0,9,3,545
+IndiGo,Kolkata,Banglore,1 stop,No info,4226.0,12,6,240
+IndiGo,Delhi,Cochin,non-stop,No info,5601.0,3,6,195
+Multiple carriers,Delhi,Cochin,1 stop,No info,9646.0,1,6,545
+Air India,Delhi,Cochin,1 stop,No info,15284.0,6,3,675
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,6,4,155
+Jet Airways,Banglore,New Delhi,1 stop,No info,16736.0,6,3,960
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,6144.0,24,5,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,15058.0,12,6,675
+Jet Airways,Delhi,Cochin,2 stops,No info,15339.0,15,6,1760
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,6,6,740
+Air India,Delhi,Cochin,non-stop,No info,5201.0,27,6,185
+Air India,Banglore,New Delhi,2 stops,Change airports,15119.0,1,3,630
+Vistara,Banglore,Delhi,non-stop,No info,4878.0,24,6,155
+Multiple carriers,Delhi,Cochin,1 stop,No info,10678.0,15,6,460
+Jet Airways,Delhi,Cochin,1 stop,No info,17531.0,9,4,715
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,6,5,520
+Air India,Mumbai,Hyderabad,non-stop,No info,2050.0,15,3,85
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,9,4,175
+Air India,Kolkata,Banglore,1 stop,No info,6528.0,21,5,1440
+Air India,Banglore,Delhi,non-stop,No info,6121.0,3,5,165
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,12,4,150
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,24,5,155
+Air India,Delhi,Cochin,1 stop,No info,8372.0,18,5,520
+IndiGo,Banglore,Delhi,non-stop,No info,4591.0,15,4,170
+IndiGo,Chennai,Kolkata,non-stop,No info,7295.0,6,3,145
+Air India,Banglore,New Delhi,2 stops,No info,12725.0,12,3,1475
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,5883.0,27,3,465
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,6,5,180
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,6,5,170
+Air India,Banglore,New Delhi,2 stops,No info,11213.0,1,3,655
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,1105
+Air India,Kolkata,Banglore,1 stop,No info,10203.0,12,5,745
+Air Asia,Kolkata,Banglore,1 stop,No info,5162.0,21,5,215
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,12,5,180
+Air India,Delhi,Cochin,3 stops,No info,10703.0,27,6,2280
+Multiple carriers,Delhi,Cochin,1 stop,No info,9526.0,1,6,535
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,12,5,175
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,9,5,180
+Air Asia,Banglore,Delhi,non-stop,No info,4483.0,3,6,165
+Air India,Banglore,New Delhi,1 stop,No info,11654.0,3,3,410
+Multiple carriers,Delhi,Cochin,1 stop,No info,9205.0,18,5,630
+Air India,Kolkata,Banglore,2 stops,No info,13428.0,24,3,1100
+IndiGo,Banglore,Delhi,non-stop,No info,4591.0,3,6,170
+Air India,Delhi,Cochin,1 stop,No info,8372.0,18,5,1360
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,18,5,170
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,1,6,170
+Air India,Delhi,Cochin,1 stop,No info,7480.0,27,6,1255
+Multiple carriers,Delhi,Cochin,1 stop,No info,9646.0,12,6,545
+SpiceJet,Delhi,Cochin,1 stop,No info,4812.0,1,4,270
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,24,4,175
+Jet Airways,Delhi,Cochin,1 stop,No info,12242.0,27,3,745
+Multiple carriers,Delhi,Cochin,1 stop,No info,12192.0,12,6,525
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,6,6,1595
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,9,5,425
+SpiceJet,Delhi,Cochin,1 stop,No info,5111.0,27,3,360
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,7832.0,21,3,375
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1395
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,3,4,180
+Vistara,Delhi,Cochin,non-stop,No info,6216.0,24,4,190
+Air India,Mumbai,Hyderabad,2 stops,No info,11342.0,12,3,560
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,3,6,375
+Air India,Kolkata,Banglore,2 stops,No info,11222.0,21,5,1415
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,21,5,135
+Jet Airways,Delhi,Cochin,non-stop,In-flight meal not included,7202.0,1,6,195
+Jet Airways,Delhi,Cochin,2 stops,No info,16914.0,9,3,1380
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10539.0,6,6,1730
+IndiGo,Delhi,Cochin,1 stop,No info,5073.0,27,3,265
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,9,5,165
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,11134.0,24,3,340
+IndiGo,Banglore,Delhi,non-stop,No info,5740.0,12,5,170
+Air India,Banglore,New Delhi,1 stop,No info,11707.0,12,3,480
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,4,155
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,4319.0,12,4,160
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7851.0,1,4,475
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,3,6,175
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,3,5,95
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,12,5,175
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,925
+Air India,Kolkata,Banglore,1 stop,No info,8366.0,1,5,1350
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9689.0,6,6,435
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,15,3,165
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,1,5,85
+Multiple carriers,Delhi,Cochin,1 stop,No info,10529.0,15,5,690
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,6,5,1540
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,18,6,140
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4392.0,18,5,90
+SpiceJet,Kolkata,Banglore,non-stop,No info,4148.0,21,3,150
+Jet Airways,Delhi,Cochin,2 stops,No info,9483.0,27,3,1475
+IndiGo,Banglore,New Delhi,non-stop,No info,6144.0,3,3,170
+Multiple carriers,Delhi,Cochin,2 stops,No info,6653.0,27,3,695
+Multiple carriers,Delhi,Cochin,1 stop,No info,16863.0,3,3,935
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,18,5,1165
+Air India,Delhi,Cochin,2 stops,No info,10178.0,9,6,1410
+Vistara,Kolkata,Banglore,1 stop,No info,9345.0,21,5,1440
+Air India,Kolkata,Banglore,1 stop,No info,6117.0,9,5,965
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,1,5,1005
+Jet Airways,Kolkata,Banglore,1 stop,No info,12121.0,1,5,870
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,21,3,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,11421.0,27,3,430
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,21,6,150
+Air India,Kolkata,Banglore,2 stops,No info,12802.0,24,5,1255
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,15,5,520
+Jet Airways,Delhi,Cochin,1 stop,No info,17024.0,3,3,1570
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,12,5,685
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5177.0,6,4,620
+Air India,Kolkata,Banglore,1 stop,No info,10493.0,24,3,545
+Air India,Banglore,Delhi,non-stop,No info,5228.0,27,4,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,3,6,1325
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,15,6,150
+Jet Airways,Kolkata,Banglore,2 stops,In-flight meal not included,10118.0,6,6,860
+IndiGo,Delhi,Cochin,non-stop,No info,6015.0,27,5,195
+Vistara,Banglore,New Delhi,non-stop,No info,8028.0,3,3,165
+Air Asia,Banglore,New Delhi,non-stop,No info,6477.0,3,3,165
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3815.0,21,3,140
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,1,5,180
+Air India,Kolkata,Banglore,2 stops,No info,11222.0,9,5,1610
+Multiple carriers,Delhi,Cochin,1 stop,No info,15147.0,6,3,640
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,6,6,760
+GoAir,Delhi,Cochin,1 stop,No info,5199.0,9,6,460
+Air India,Mumbai,Hyderabad,non-stop,No info,3625.0,12,5,75
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,12,6,555
+Air India,Delhi,Cochin,1 stop,No info,14462.0,3,3,1660
+Air India,Mumbai,Hyderabad,1 stop,No info,8528.0,12,3,795
+Air Asia,Delhi,Cochin,1 stop,No info,6253.0,15,6,625
+Air India,Kolkata,Banglore,non-stop,No info,4880.0,18,5,155
+Vistara,Chennai,Kolkata,non-stop,No info,3687.0,15,6,135
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,655
+Multiple carriers,Delhi,Cochin,1 stop,No info,6805.0,9,5,455
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,12,6,450
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,18,5,1520
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3573.0,18,6,160
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,18,5,1040
+IndiGo,Kolkata,Banglore,1 stop,No info,4205.0,12,5,265
+Air Asia,Banglore,Delhi,non-stop,No info,4483.0,18,5,165
+Air India,Banglore,Delhi,non-stop,No info,6121.0,1,5,170
+IndiGo,Delhi,Cochin,1 stop,No info,6493.0,6,6,320
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,6136.0,15,3,280
+Air India,Delhi,Cochin,2 stops,No info,9653.0,27,6,1410
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,3,5,145
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4050.0,3,6,85
+Air India,Delhi,Cochin,2 stops,No info,11596.0,9,5,1820
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,12,6,750
+IndiGo,Delhi,Cochin,non-stop,No info,5000.0,12,5,195
+IndiGo,Delhi,Cochin,1 stop,No info,13628.0,3,3,350
+Air India,Delhi,Cochin,2 stops,No info,8603.0,12,6,1180
+IndiGo,Delhi,Cochin,1 stop,No info,7191.0,15,5,810
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,9,5,140
+Vistara,Delhi,Cochin,non-stop,No info,5586.0,9,4,190
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,6,6,1495
+IndiGo,Delhi,Cochin,1 stop,No info,5883.0,24,6,415
+Jet Airways,Delhi,Cochin,2 stops,No info,20904.0,9,3,495
+Air India,Delhi,Cochin,1 stop,No info,8372.0,15,5,555
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,6,6,180
+Air India,Kolkata,Banglore,1 stop,No info,8996.0,24,5,245
+Air Asia,Delhi,Cochin,1 stop,No info,6752.0,9,5,340
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,6,475
+Multiple carriers,Delhi,Cochin,1 stop,No info,12192.0,12,6,720
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,21,5,1495
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,2175.0,24,3,80
+Multiple carriers,Delhi,Cochin,1 stop,No info,7695.0,21,3,765
+Multiple carriers,Delhi,Cochin,1 stop,No info,7695.0,21,3,835
+Vistara,Chennai,Kolkata,non-stop,No info,3687.0,1,6,135
+Air India,Banglore,Delhi,non-stop,No info,6121.0,15,4,165
+Air India,Banglore,New Delhi,2 stops,No info,12515.0,12,3,1600
+IndiGo,Kolkata,Banglore,1 stop,No info,3480.0,24,4,265
+IndiGo,Banglore,Delhi,non-stop,No info,4990.0,18,4,170
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,27,5,1430
+Jet Airways,Kolkata,Banglore,1 stop,No info,13067.0,21,5,750
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,15,6,360
+Multiple carriers,Delhi,Cochin,1 stop,No info,7198.0,6,6,750
+IndiGo,Delhi,Cochin,1 stop,No info,6704.0,9,5,380
+Multiple carriers,Delhi,Cochin,1 stop,No info,15353.0,6,3,535
+Multiple carriers,Delhi,Cochin,1 stop,No info,11789.0,9,6,520
+IndiGo,Delhi,Cochin,1 stop,No info,6704.0,9,5,490
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,4129.0,6,3,80
+Jet Airways,Kolkata,Banglore,1 stop,No info,13626.0,12,6,425
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,15,6,895
+Air India,Delhi,Cochin,1 stop,No info,8372.0,27,6,375
+IndiGo,Delhi,Cochin,1 stop,No info,6314.0,9,6,625
+Multiple carriers,Delhi,Cochin,1 stop,No info,14323.0,15,5,465
+IndiGo,Delhi,Cochin,1 stop,No info,5883.0,6,6,895
+Air India,Kolkata,Banglore,2 stops,No info,9941.0,24,5,590
+Air India,Delhi,Cochin,2 stops,No info,15481.0,1,6,1490
+GoAir,Banglore,Delhi,non-stop,No info,4239.0,18,5,175
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,12,3,90
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11848.0,9,3,1685
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,1485
+Multiple carriers,Delhi,Cochin,1 stop,No info,12537.0,27,3,570
+Multiple carriers,Delhi,Cochin,1 stop,No info,15135.0,3,3,485
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,24,4,155
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,9,6,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,6645.0,27,3,1280
+Jet Airways,Kolkata,Banglore,1 stop,No info,9358.0,12,5,435
+Jet Airways,Banglore,New Delhi,1 stop,No info,27992.0,1,3,740
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,12,6,165
+Jet Airways,Delhi,Cochin,2 stops,No info,18804.0,27,6,440
+Multiple carriers,Delhi,Cochin,1 stop,No info,7933.0,1,6,720
+Air Asia,Delhi,Cochin,1 stop,No info,6253.0,15,6,330
+Air India,Kolkata,Banglore,1 stop,No info,8030.0,1,4,675
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,24,6,1105
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,9,6,90
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2228.0,18,3,90
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,21,5,175
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,24,5,395
+Multiple carriers,Delhi,Cochin,1 stop,No info,9385.0,18,5,750
+IndiGo,Delhi,Cochin,1 stop,No info,8285.0,27,3,755
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,1,6,140
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8066.0,6,5,800
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,1,4,800
+Air India,Delhi,Cochin,2 stops,No info,10441.0,9,5,1275
+Air India,Kolkata,Banglore,2 stops,No info,11542.0,12,6,1700
+Jet Airways,Banglore,New Delhi,1 stop,No info,13817.0,12,3,1050
+IndiGo,Banglore,New Delhi,1 stop,No info,7708.0,21,3,300
+Air India,Delhi,Cochin,2 stops,No info,11185.0,9,6,1580
+Air India,Banglore,New Delhi,2 stops,No info,7664.0,15,3,1815
+Multiple carriers,Delhi,Cochin,1 stop,No info,15147.0,6,3,395
+Air India,Delhi,Cochin,2 stops,No info,16111.0,9,3,1395
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,12,6,515
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,6,6,450
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,1,6,520
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,21,5,1610
+Jet Airways,Kolkata,Banglore,1 stop,No info,12121.0,24,5,1080
+Multiple carriers,Delhi,Cochin,1 stop,No info,6513.0,9,6,540
+Multiple carriers,Delhi,Cochin,1 stop,No info,13838.0,3,3,755
+Air India,Delhi,Cochin,2 stops,No info,12488.0,12,6,1485
+Air India,Banglore,New Delhi,non-stop,No info,10741.0,9,3,165
+Vistara,Banglore,New Delhi,1 stop,No info,12371.0,1,3,1665
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,12384.0,21,5,575
+Jet Airways,Delhi,Cochin,non-stop,In-flight meal not included,7202.0,12,5,195
+Jet Airways,Delhi,Cochin,2 stops,No info,15339.0,27,6,1390
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,5201.0,24,3,150
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,9,5,90
+Air India,Kolkata,Banglore,non-stop,No info,5510.0,21,6,150
+Air India,Delhi,Cochin,1 stop,No info,9929.0,27,5,735
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,9,4,150
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,1010
+Air Asia,Banglore,Delhi,non-stop,No info,4483.0,27,4,165
+Jet Airways,Kolkata,Banglore,1 stop,No info,13584.0,6,5,800
+Air India,Banglore,New Delhi,1 stop,No info,11003.0,1,3,745
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,9,6,890
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,24,4,155
+SpiceJet,Delhi,Cochin,1 stop,No info,5221.0,15,4,295
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,6,6,1125
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,1,6,510
+Air India,Delhi,Cochin,1 stop,No info,7480.0,1,6,765
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,15,5,730
+Jet Airways,Kolkata,Banglore,1 stop,No info,14231.0,24,3,1405
+IndiGo,Delhi,Cochin,1 stop,No info,6938.0,3,6,490
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,13843.0,6,3,925
+Jet Airways,Banglore,New Delhi,1 stop,No info,17261.0,6,3,1280
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,12,5,330
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,18,5,155
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,1,6,450
+SpiceJet,Banglore,Delhi,non-stop,No info,3971.0,1,6,170
+IndiGo,Kolkata,Banglore,1 stop,No info,4226.0,15,4,220
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,3,6,90
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,27,5,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,1,4,1025
+Multiple carriers,Delhi,Cochin,1 stop,No info,15078.0,6,3,780
+Air India,Kolkata,Banglore,2 stops,No info,13007.0,9,6,1200
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,360
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,1,4,740
+Jet Airways,Banglore,New Delhi,1 stop,No info,26890.0,1,3,325
+Multiple carriers,Delhi,Cochin,1 stop,No info,7564.0,18,5,755
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,18,3,1045
+Air India,Banglore,New Delhi,1 stop,No info,12704.0,1,3,855
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6943.0,27,5,690
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3257.0,18,6,170
+IndiGo,Delhi,Cochin,1 stop,No info,8574.0,27,3,420
+Multiple carriers,Delhi,Cochin,1 stop,No info,14323.0,9,5,465
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,9,6,150
+Air Asia,Kolkata,Banglore,non-stop,No info,5989.0,3,5,150
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,12,4,155
+Multiple carriers,Delhi,Cochin,1 stop,No info,10197.0,21,5,660
+Multiple carriers,Delhi,Cochin,1 stop,No info,15147.0,6,3,470
+Air India,Kolkata,Banglore,non-stop,No info,5170.0,27,3,150
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,18,5,1220
+SpiceJet,Kolkata,Banglore,1 stop,No info,7804.0,15,5,330
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,4,155
+IndiGo,Delhi,Cochin,1 stop,No info,4862.0,21,3,320
+Air India,Banglore,New Delhi,non-stop,No info,7591.0,3,3,165
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,3,4,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,7575.0,9,5,860
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5769.0,3,6,165
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,11841.0,9,6,800
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,21,6,165
+GoAir,Delhi,Cochin,1 stop,No info,6146.0,21,4,460
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,805
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,24,4,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,24,6,885
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,9,5,155
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,12,5,730
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,18,5,155
+Air India,Banglore,New Delhi,1 stop,No info,6046.0,15,3,790
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1690
+Vistara,Kolkata,Banglore,1 stop,No info,12312.0,24,3,770
+SpiceJet,Kolkata,Banglore,non-stop,No info,3849.0,6,3,140
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,21,3,165
+Air India,Banglore,New Delhi,2 stops,No info,14143.0,6,3,1900
+Vistara,Banglore,Delhi,non-stop,No info,5613.0,12,4,155
+Multiple carriers,Delhi,Cochin,1 stop,No info,7038.0,1,6,540
+IndiGo,Delhi,Cochin,1 stop,No info,7725.0,6,3,265
+Vistara,Mumbai,Hyderabad,1 stop,No info,12395.0,6,3,1500
+Multiple carriers,Delhi,Cochin,1 stop,No info,9856.0,27,5,925
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,5797.0,24,6,830
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,27,4,180
+Air India,Kolkata,Banglore,1 stop,No info,11096.0,21,5,805
+Air India,Delhi,Cochin,1 stop,No info,14882.0,6,3,1360
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,6,5,180
+Air India,Kolkata,Banglore,2 stops,No info,11432.0,9,5,765
+Air India,Kolkata,Banglore,2 stops,No info,11411.0,12,5,1625
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,24,6,1025
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,12,3,1530
+Air India,Kolkata,Banglore,2 stops,No info,11432.0,6,6,765
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,6,5,1315
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6093.0,27,4,540
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,7832.0,21,3,695
+Multiple carriers,Delhi,Cochin,1 stop,No info,13727.0,15,5,720
+IndiGo,Delhi,Cochin,1 stop,No info,6938.0,6,6,380
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,12,6,450
+Air Asia,Banglore,Delhi,non-stop,No info,4483.0,18,4,170
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,24,5,140
+Vistara,Banglore,Delhi,non-stop,No info,5403.0,1,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,12717.0,1,6,600
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,17271.0,6,3,1365
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,15,4,185
+Multiple carriers,Delhi,Cochin,1 stop,No info,9736.0,3,6,795
+Jet Airways,Delhi,Cochin,2 stops,No info,14300.0,15,6,1095
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,6,4,180
+IndiGo,Kolkata,Banglore,1 stop,No info,5930.0,1,4,315
+Air India,Kolkata,Banglore,1 stop,No info,10623.0,18,5,1615
+Vistara,Kolkata,Banglore,1 stop,No info,8977.0,1,4,355
+Air India,Delhi,Cochin,2 stops,No info,16373.0,9,3,1275
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,18,5,1100
+Air India,Delhi,Cochin,1 stop,No info,27282.0,3,3,795
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,15,3,90
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,24,4,155
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,3,6,1100
+IndiGo,Delhi,Cochin,1 stop,No info,7451.0,6,3,480
+IndiGo,Banglore,New Delhi,1 stop,No Info,8153.0,1,3,295
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,6,155
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,3,4,175
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,5,160
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,520
+SpiceJet,Banglore,Delhi,non-stop,No info,4423.0,6,4,170
+Air India,Kolkata,Banglore,1 stop,No info,6327.0,18,5,965
+Jet Airways,Delhi,Cochin,1 stop,No info,15764.0,6,3,870
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,24,6,1530
+Air India,Banglore,New Delhi,2 stops,No info,13261.0,18,3,435
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,9,6,185
+Multiple carriers,Delhi,Cochin,1 stop,No info,7354.0,12,6,645
+IndiGo,Kolkata,Banglore,non-stop,No info,6565.0,3,3,155
+Air India,Delhi,Cochin,2 stops,No info,8708.0,21,3,1795
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3919.0,1,6,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,27,6,750
+Jet Airways,Kolkata,Banglore,1 stop,No info,14939.0,9,6,735
+Jet Airways,Delhi,Cochin,1 stop,No info,15554.0,6,5,335
+Jet Airways,Banglore,New Delhi,1 stop,No info,26890.0,1,3,785
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3332.0,21,3,140
+Jet Airways,Delhi,Cochin,1 stop,No info,12242.0,27,3,1015
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3573.0,6,6,160
+Vistara,Kolkata,Banglore,1 stop,No info,9187.0,9,6,355
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,1,5,135
+Air India,Mumbai,Hyderabad,non-stop,No info,6092.0,1,3,85
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,15,6,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10577.0,9,6,1325
+IndiGo,Banglore,New Delhi,non-stop,No info,5694.0,24,3,175
+Vistara,Chennai,Kolkata,non-stop,No info,11982.0,1,5,140
+Air India,Kolkata,Banglore,non-stop,No info,5510.0,24,5,150
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,15,5,165
+Jet Airways,Banglore,New Delhi,1 stop,No info,8578.0,15,3,280
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,18,5,345
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,27,5,85
+Jet Airways,Delhi,Cochin,1 stop,No info,18371.0,9,6,620
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10703.0,9,5,800
+Multiple carriers,Delhi,Cochin,1 stop,No info,9100.0,27,3,705
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,3,5,135
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,6,4,180
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,7229.0,21,6,175
+Air India,Kolkata,Banglore,1 stop,No info,8366.0,18,5,745
+Air India,Kolkata,Banglore,non-stop,No info,5195.0,12,4,150
+IndiGo,Delhi,Cochin,1 stop,No info,8542.0,9,5,415
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,12,5,425
+Air India,Delhi,Cochin,1 stop,No info,8372.0,21,5,375
+Multiple carriers,Delhi,Cochin,1 stop,No info,7670.0,15,5,390
+Jet Airways,Delhi,Cochin,non-stop,In-flight meal not included,5443.0,18,4,195
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,12,6,1395
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,3173.0,21,3,80
+IndiGo,Delhi,Cochin,1 stop,No info,5298.0,27,3,320
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,3,6,1485
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,27,6,560
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,27,3,155
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,3603.0,9,3,85
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6093.0,27,6,540
+Jet Airways,Kolkata,Banglore,1 stop,No info,13731.0,24,5,735
+Air India,Delhi,Cochin,1 stop,No info,8372.0,6,6,675
+IndiGo,Delhi,Cochin,1 stop,No info,7191.0,15,5,630
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2071.0,15,3,90
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,9,5,180
+Air India,Kolkata,Banglore,1 stop,No info,8366.0,18,5,1350
+Multiple carriers,Delhi,Cochin,1 stop,No info,12327.0,27,3,795
+Air India,Kolkata,Banglore,non-stop,No info,4460.0,1,4,155
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,1,6,90
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,27,6,600
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,27,4,140
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,9,5,1330
+Multiple carriers,Delhi,Cochin,1 stop,No info,9021.0,9,5,910
+Multiple carriers Premium economy,Delhi,Cochin,1 stop,No info,14629.0,21,3,770
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,15,5,400
+Air India,Kolkata,Banglore,2 stops,No info,15107.0,24,5,1165
+Air India,Delhi,Cochin,2 stops,No info,8656.0,27,3,1410
+Multiple carriers,Delhi,Cochin,1 stop,No info,8099.0,24,6,600
+Multiple carriers,Delhi,Cochin,1 stop,No info,6305.0,27,3,560
+IndiGo,Delhi,Cochin,1 stop,No info,6818.0,15,6,425
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,24,6,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,11622.0,9,6,630
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,9,5,175
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,24,4,170
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,24,6,635
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5769.0,24,6,175
+IndiGo,Kolkata,Banglore,1 stop,No info,4864.0,15,5,330
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,15,6,540
+Vistara,Kolkata,Banglore,1 stop,No info,8085.0,9,6,1440
+Jet Airways,Kolkata,Banglore,1 stop,No info,14231.0,24,3,1285
+Air India,Kolkata,Banglore,2 stops,No info,11542.0,9,5,1700
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,12,3,160
+Jet Airways,Delhi,Cochin,1 stop,No info,12767.0,21,3,650
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,18,4,180
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,12,5,1430
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,3,6,140
+Vistara,Kolkata,Banglore,1 stop,No info,8610.0,12,5,1440
+IndiGo,Chennai,Kolkata,non-stop,No info,3850.0,18,5,165
+IndiGo,Delhi,Cochin,1 stop,No info,6171.0,9,3,675
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,24,6,160
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,5,400
+Air India,Delhi,Cochin,non-stop,No info,4729.0,27,3,170
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,12,4,185
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,3,5,90
+Jet Airways,Kolkata,Banglore,1 stop,No info,12692.0,6,6,1080
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,6,6,550
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,6,6,140
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,12,5,685
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,4,155
+Jet Airways,Banglore,New Delhi,1 stop,No info,22270.0,6,3,325
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,6,5,1695
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,9,6,1330
+Air India,Banglore,New Delhi,2 stops,No info,20999.0,1,3,1705
+Multiple carriers,Delhi,Cochin,2 stops,No info,10444.0,6,3,695
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,24,4,180
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,6,6,1550
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,18,5,800
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,12,5,435
+Multiple carriers,Delhi,Cochin,2 stops,No info,6197.0,27,3,850
+SpiceJet,Kolkata,Banglore,non-stop,No info,5515.0,1,3,140
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,1570
+GoAir,Delhi,Cochin,1 stop,No info,5052.0,15,4,370
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,12,5,90
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,1,5,175
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,1,5,800
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,18,5,135
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,27,5,635
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,12,5,400
+Jet Airways,Kolkata,Banglore,1 stop,No info,13044.0,12,6,1170
+SpiceJet,Delhi,Cochin,1 stop,No check-in baggage included,5158.0,12,6,270
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,3,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,27,5,570
+IndiGo,Delhi,Cochin,1 stop,No info,7189.0,3,6,345
+Jet Airways,Banglore,New Delhi,1 stop,No info,17261.0,6,3,1425
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,27,6,85
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,865
+Air India,Kolkata,Banglore,2 stops,No info,10676.0,21,5,1195
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,1,5,165
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,3,6,910
+SpiceJet,Chennai,Kolkata,non-stop,No info,6300.0,9,3,135
+Air India,Mumbai,Hyderabad,non-stop,No info,3100.0,9,6,90
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,6,6,1210
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,27,3,90
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,27,5,180
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,9,6,1450
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,6,3,755
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,9,5,1315
+Jet Airways,Delhi,Cochin,2 stops,No info,19329.0,6,3,1475
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,3,3,515
+SpiceJet,Banglore,New Delhi,1 stop,No info,5822.0,15,3,485
+Jet Airways,Delhi,Cochin,1 stop,No info,12719.0,21,3,1570
+IndiGo,Delhi,Cochin,non-stop,No info,6015.0,12,6,195
+Jet Airways,Banglore,New Delhi,1 stop,No info,14815.0,6,3,640
+Air India,Delhi,Cochin,1 stop,No info,8372.0,9,6,700
+Jet Airways,Delhi,Cochin,1 stop,No info,16079.0,27,5,1425
+Jet Airways,Kolkata,Banglore,1 stop,No info,13731.0,6,6,1215
+Multiple carriers,Delhi,Cochin,2 stops,No info,18485.0,1,6,460
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9899.0,12,6,740
+IndiGo,Delhi,Cochin,1 stop,No info,8745.0,21,5,305
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,6,5,85
+GoAir,Kolkata,Banglore,1 stop,No info,8777.0,9,5,455
+SpiceJet,Delhi,Cochin,1 stop,No info,4812.0,24,6,270
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,15544.0,21,5,425
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,24,6,170
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,18,6,140
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7064.0,1,4,1485
+Jet Airways,Banglore,New Delhi,1 stop,1 Long layover,26890.0,1,3,885
+Jet Airways,Delhi,Cochin,2 stops,No info,16263.0,21,5,505
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,27,6,425
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,13344.0,24,6,425
+Jet Airways,Banglore,New Delhi,non-stop,No info,7229.0,24,3,180
+Air Asia,Kolkata,Banglore,2 stops,No info,6810.0,6,6,500
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,18,3,1310
+Vistara,Kolkata,Banglore,1 stop,No info,9345.0,24,5,1440
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,9,5,1025
+Air India,Kolkata,Banglore,2 stops,No info,13885.0,24,3,1830
+IndiGo,Delhi,Cochin,1 stop,No info,6818.0,6,6,665
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3859.0,6,5,135
+IndiGo,Chennai,Kolkata,non-stop,No info,6297.0,12,3,140
+Air India,Delhi,Cochin,1 stop,No info,16352.0,3,3,965
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,10972.0,18,3,1055
+SpiceJet,Delhi,Cochin,1 stop,No info,8488.0,6,3,270
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,15,6,175
+Air India,Chennai,Kolkata,non-stop,No info,4667.0,1,5,135
+Multiple carriers,Delhi,Cochin,1 stop,No info,12192.0,6,6,720
+Multiple carriers,Delhi,Cochin,1 stop,No info,13062.0,21,3,835
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,18,5,1125
+Multiple carriers,Delhi,Cochin,1 stop,No info,7198.0,27,5,450
+IndiGo,Kolkata,Banglore,1 stop,No info,4864.0,9,5,330
+Multiple carriers,Delhi,Cochin,1 stop,No info,8073.0,18,5,840
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6093.0,24,4,540
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,16389.0,6,3,2300
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,590
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,27,5,1775
+Vistara,Kolkata,Banglore,1 stop,No info,8610.0,12,6,1625
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,9,5,775
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,1,5,140
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,24,5,135
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,15,6,1040
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,15,5,365
+Jet Airways,Delhi,Cochin,1 stop,No info,16079.0,21,5,450
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,850
+Air India,Delhi,Cochin,1 stop,No info,6482.0,21,3,1255
+Air India,Delhi,Cochin,2 stops,No info,8026.0,27,3,2295
+Jet Airways,Delhi,Cochin,1 stop,No info,16289.0,27,5,660
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,6144.0,24,5,180
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,3,5,140
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,21,4,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,9486.0,21,5,710
+Air India,Banglore,New Delhi,1 stop,No info,8714.0,15,3,865
+Multiple carriers,Delhi,Cochin,1 stop,No info,10529.0,24,5,690
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,1655
+Vistara,Kolkata,Banglore,1 stop,No info,9187.0,6,6,1655
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,24,6,170
+Jet Airways,Kolkata,Banglore,1 stop,No info,10953.0,6,5,1005
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,1,5,1745
+IndiGo,Delhi,Cochin,1 stop,No info,10112.0,1,6,305
+Air India,Kolkata,Banglore,2 stops,No info,10676.0,12,5,1830
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,24,6,90
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2227.0,6,5,90
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,6,6,1620
+Vistara,Kolkata,Banglore,1 stop,No info,9135.0,9,6,1550
+SpiceJet,Banglore,New Delhi,non-stop,No info,5126.0,9,3,170
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,27,3,160
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,12927.0,1,6,730
+Multiple carriers,Delhi,Cochin,1 stop,No info,13727.0,9,5,660
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,21,4,170
+IndiGo,Banglore,New Delhi,non-stop,No info,3897.0,24,3,170
+Jet Airways,Kolkata,Banglore,1 stop,No info,13067.0,21,5,1540
+Multiple carriers,Delhi,Cochin,2 stops,No info,23583.0,9,3,465
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,24,4,180
+Air India,Banglore,New Delhi,1 stop,No info,11628.0,1,3,370
+Jet Airways,Delhi,Cochin,1 stop,No info,15764.0,9,3,1260
+Air India,Chennai,Kolkata,non-stop,No info,3145.0,27,3,135
+Jet Airways,Banglore,New Delhi,1 stop,No info,19225.0,6,3,375
+Air India,Delhi,Cochin,1 stop,No info,8372.0,27,5,1515
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9314.0,1,4,575
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,9,5,740
+Vistara,Kolkata,Banglore,1 stop,No info,14360.0,24,3,355
+Jet Airways,Delhi,Cochin,2 stops,No info,13082.0,21,3,1790
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,27,6,135
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,12,4,170
+Air India,Kolkata,Banglore,non-stop,No info,4460.0,3,4,155
+Jet Airways,Kolkata,Banglore,1 stop,No info,12121.0,9,5,1005
+Multiple carriers,Delhi,Cochin,1 stop,No info,9508.0,3,6,930
+IndiGo,Kolkata,Banglore,non-stop,No info,5618.0,6,3,155
+Air India,Banglore,New Delhi,1 stop,No info,12127.0,12,3,865
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,12,5,150
+Jet Airways,Kolkata,Banglore,1 stop,No info,14178.0,9,6,520
+IndiGo,Delhi,Cochin,1 stop,No info,13628.0,6,3,350
+Air India,Kolkata,Banglore,2 stops,No info,10697.0,6,6,610
+Jet Airways,Delhi,Cochin,1 stop,No info,16079.0,27,5,395
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,6,5,1010
+Vistara,Chennai,Kolkata,non-stop,No info,11982.0,24,6,140
+IndiGo,Kolkata,Banglore,non-stop,No info,5224.0,21,5,150
+Air India,Delhi,Cochin,non-stop,No info,6934.0,1,6,180
+IndiGo,Chennai,Kolkata,non-stop,No info,4326.0,24,3,140
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,18,5,825
+Jet Airways,Delhi,Cochin,1 stop,No info,17234.0,3,3,550
+Jet Airways,Banglore,Delhi,non-stop,No info,8541.0,21,6,185
+Air Asia,Kolkata,Banglore,2 stops,No info,11245.0,24,3,450
+IndiGo,Delhi,Cochin,1 stop,No info,4744.0,3,4,325
+IndiGo,Delhi,Cochin,1 stop,No info,6938.0,1,6,380
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,15,5,1365
+Air India,Banglore,New Delhi,non-stop,No info,5176.0,24,3,165
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4784.0,6,3,85
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,1395
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,21,5,140
+Vistara,Kolkata,Banglore,1 stop,No info,9397.0,9,6,865
+Air India,Delhi,Cochin,non-stop,No info,6094.0,15,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,10197.0,9,5,600
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,9,5,155
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,21,5,180
+Air India,Banglore,Delhi,non-stop,No info,7171.0,21,6,165
+Jet Airways,Delhi,Cochin,2 stops,No info,11702.0,21,3,800
+Air India,Delhi,Cochin,1 stop,No info,5642.0,21,3,765
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,15812.0,3,6,440
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2227.0,27,3,85
+GoAir,Delhi,Cochin,1 stop,No info,5842.0,21,5,355
+Vistara,Banglore,Delhi,non-stop,No info,5403.0,3,4,160
+Air India,Kolkata,Banglore,2 stops,No info,10991.0,1,5,1045
+IndiGo,Delhi,Cochin,1 stop,No info,5046.0,6,4,325
+Air India,Kolkata,Banglore,2 stops,No info,12009.0,1,4,1505
+Jet Airways,Banglore,New Delhi,1 stop,No info,16736.0,6,3,845
+IndiGo,Kolkata,Banglore,1 stop,No info,3809.0,24,5,265
+SpiceJet,Chennai,Kolkata,non-stop,No info,6300.0,15,3,155
+Multiple carriers,Delhi,Cochin,1 stop,No info,13727.0,15,5,840
+Air India,Kolkata,Banglore,1 stop,No info,6528.0,12,5,1440
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4392.0,24,5,90
+Air India,Delhi,Cochin,2 stops,No info,13696.0,18,5,1820
+Jet Airways,Delhi,Cochin,2 stops,No info,13014.0,24,6,1025
+Jet Airways,Kolkata,Banglore,1 stop,No info,13584.0,18,5,800
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,12,6,85
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,1260
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,655
+Vistara,Kolkata,Banglore,1 stop,No info,8662.0,6,6,1580
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6093.0,15,6,920
+IndiGo,Delhi,Cochin,1 stop,No info,6600.0,9,6,665
+IndiGo,Banglore,New Delhi,1 stop,No info,6575.0,21,3,300
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9899.0,12,6,590
+Multiple carriers,Delhi,Cochin,1 stop,No info,11667.0,21,3,590
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,24,4,140
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,18,3,520
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3573.0,21,5,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,7485.0,21,5,560
+Air India,Kolkata,Banglore,2 stops,No info,7662.0,12,6,445
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,15,6,140
+IndiGo,Kolkata,Banglore,non-stop,No info,4148.0,27,3,165
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,6,6,175
+Air India,Delhi,Cochin,2 stops,No info,8341.0,9,4,1275
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,21,5,180
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,6,6,85
+Vistara,Banglore,Delhi,non-stop,No info,5403.0,12,4,170
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,15,5,180
+Jet Airways,Banglore,New Delhi,1 stop,No info,13555.0,18,3,695
+Multiple carriers,Delhi,Cochin,1 stop,No info,7215.0,21,3,560
+IndiGo,Delhi,Cochin,1 stop,No info,10208.0,21,3,480
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,8147.0,24,3,1445
+Air India,Delhi,Cochin,2 stops,No info,9443.0,24,6,1595
+Multiple carriers,Delhi,Cochin,1 stop,No info,13062.0,21,3,480
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,18,4,170
+Air India,Delhi,Cochin,1 stop,No info,9064.0,9,3,315
+Air India,Kolkata,Banglore,3 stops,No info,14960.0,21,5,805
+Air India,Mumbai,Hyderabad,non-stop,No info,3625.0,6,5,80
+Air India,Kolkata,Banglore,1 stop,No info,10203.0,9,5,805
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,6144.0,3,5,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,9646.0,18,5,385
+Jet Airways,Delhi,Cochin,1 stop,No info,16289.0,9,3,745
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,27,5,155
+Air India,Kolkata,Banglore,2 stops,No info,11542.0,12,6,1255
+SpiceJet,Kolkata,Banglore,1 stop,No info,4649.0,21,5,315
+Multiple carriers,Delhi,Cochin,1 stop,No info,9100.0,27,3,755
+Jet Airways,Kolkata,Banglore,1 stop,No info,14231.0,24,3,795
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,3,3,570
+Multiple carriers,Delhi,Cochin,1 stop,No info,13587.0,15,6,780
+SpiceJet,Kolkata,Banglore,non-stop,No info,4911.0,21,4,150
+Multiple carriers,Delhi,Cochin,1 stop,No info,6637.0,27,3,560
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,9,6,510
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9314.0,9,5,1730
+Air India,Banglore,Delhi,non-stop,No info,7171.0,18,5,165
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,12,5,180
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,1,5,1055
+Multiple carriers,Delhi,Cochin,2 stops,In-flight meal not included,5935.0,21,3,850
+IndiGo,Kolkata,Banglore,1 stop,No info,5069.0,9,6,290
+Jet Airways,Banglore,New Delhi,1 stop,No info,16946.0,18,3,435
+Air India,Delhi,Cochin,non-stop,No info,6094.0,24,4,180
+Air India,Delhi,Cochin,1 stop,No info,7174.0,9,5,1010
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,9,6,600
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,6,4,180
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,7438.0,21,3,1015
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5769.0,3,6,180
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6007.0,24,6,640
+Air India,Delhi,Cochin,2 stops,No info,11753.0,15,6,1245
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,27,6,660
+Air India,Banglore,New Delhi,2 stops,No info,7664.0,15,3,1075
+Multiple carriers,Delhi,Cochin,1 stop,No info,15135.0,6,3,730
+Air India,Banglore,Delhi,non-stop,No info,5228.0,27,4,170
+Air India,Delhi,Cochin,1 stop,No info,7384.0,1,6,320
+Jet Airways,Banglore,New Delhi,1 stop,No info,16736.0,6,3,1235
+SpiceJet,Kolkata,Banglore,non-stop,No info,4491.0,18,5,145
+IndiGo,Delhi,Cochin,non-stop,No info,5601.0,6,6,195
+Multiple carriers,Delhi,Cochin,1 stop,No info,12192.0,3,6,910
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,1,5,180
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2228.0,6,5,90
+Air India,Delhi,Cochin,2 stops,No info,11753.0,12,6,1245
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,9,6,490
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,13344.0,12,6,425
+Air Asia,Kolkata,Banglore,1 stop,No info,5192.0,15,5,720
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10199.0,24,6,910
+Air India,Delhi,Cochin,2 stops,No info,11386.0,27,6,800
+IndiGo,Kolkata,Banglore,non-stop,No info,5224.0,18,4,150
+SpiceJet,Kolkata,Banglore,1 stop,No info,8224.0,6,6,330
+Jet Airways,Kolkata,Banglore,1 stop,No info,12692.0,6,6,1295
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,550
+IndiGo,Delhi,Cochin,1 stop,No info,6838.0,21,3,615
+Vistara,Kolkata,Banglore,1 stop,No info,7927.0,12,6,765
+Multiple carriers,Delhi,Cochin,1 stop,No info,15411.0,6,3,595
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,9,6,460
+GoAir,Delhi,Cochin,1 stop,No info,5752.0,15,4,540
+Jet Airways,Delhi,Cochin,2 stops,No info,14441.0,12,6,425
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,1225
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,6,6,575
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2017.0,3,6,90
+Multiple carriers,Delhi,Cochin,2 stops,No info,21483.0,6,3,630
+SpiceJet,Delhi,Cochin,1 stop,No info,5975.0,1,6,295
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,15,5,705
+Vistara,Kolkata,Banglore,1 stop,No info,8662.0,6,5,865
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,12,6,615
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,6017.0,27,3,440
+IndiGo,Kolkata,Banglore,non-stop,No info,7615.0,24,3,155
+Air India,Delhi,Cochin,1 stop,No info,9929.0,15,6,925
+Vistara,Kolkata,Banglore,1 stop,No info,13152.0,24,3,795
+Jet Airways,Delhi,Cochin,non-stop,In-flight meal not included,4886.0,3,4,195
+IndiGo,Banglore,Delhi,non-stop,No info,4990.0,24,5,170
+IndiGo,Delhi,Cochin,1 stop,No info,5298.0,24,6,320
+Air India,Delhi,Cochin,2 stops,No info,11185.0,9,6,1420
+Air India,Kolkata,Banglore,2 stops,No info,14960.0,12,6,805
+Air India,Kolkata,Banglore,non-stop,No info,4435.0,6,3,155
+Air Asia,Banglore,Delhi,non-stop,No info,4282.0,15,6,170
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,6,3,575
+Air India,Banglore,Delhi,non-stop,No info,5176.0,3,4,165
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,9,6,560
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,1,6,1025
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,1,5,960
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,24,5,160
+Multiple carriers,Delhi,Cochin,1 stop,No info,7787.0,9,5,755
+Vistara,Banglore,Delhi,non-stop,No info,4878.0,18,5,160
+IndiGo,Banglore,New Delhi,1 stop,No info,9694.0,1,3,295
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,24,5,85
+IndiGo,Delhi,Cochin,1 stop,No info,6093.0,12,6,750
+Vistara,Kolkata,Banglore,1 stop,No info,8610.0,6,5,790
+Jet Airways,Banglore,New Delhi,1 stop,1 Long layover,27992.0,1,3,745
+Air India,Delhi,Cochin,1 stop,No info,7480.0,27,5,965
+IndiGo,Banglore,New Delhi,1 stop,No info,6208.0,21,3,285
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,3,3,420
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,1,5,175
+SpiceJet,Delhi,Cochin,1 stop,No info,7317.0,21,5,380
+Jet Airways,Delhi,Cochin,1 stop,No info,17024.0,6,3,535
+Jet Airways,Delhi,Cochin,2 stops,No info,18752.0,9,3,1745
+Air India,Banglore,New Delhi,non-stop,No info,4441.0,18,3,165
+Air India,Banglore,New Delhi,1 stop,No info,14069.0,1,3,700
+Air India,Kolkata,Banglore,2 stops,No info,14687.0,9,5,1200
+Multiple carriers,Delhi,Cochin,1 stop,No info,9001.0,24,6,705
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,15,6,330
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,1,6,90
+Multiple carriers,Delhi,Cochin,2 stops,No info,18485.0,9,6,460
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,27,4,180
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,12,6,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,9794.0,1,5,520
+Multiple carriers,Delhi,Cochin,1 stop,No info,7354.0,24,6,705
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10577.0,9,6,1040
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,15,5,180
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5177.0,6,4,1505
+IndiGo,Banglore,New Delhi,non-stop,No info,4777.0,21,3,170
+IndiGo,Delhi,Cochin,1 stop,No info,6558.0,21,3,515
+Air India,Banglore,New Delhi,1 stop,No info,6955.0,21,3,770
+Vistara,Banglore,New Delhi,non-stop,No info,5403.0,24,3,160
+IndiGo,Delhi,Cochin,1 stop,No info,6758.0,18,5,965
+Vistara,Kolkata,Banglore,1 stop,No info,9135.0,12,5,1550
+Vistara,Banglore,Delhi,non-stop,No info,5403.0,27,4,170
+Jet Airways,Delhi,Cochin,2 stops,No info,16704.0,9,5,1390
+Jet Airways,Delhi,Cochin,1 stop,No info,18550.0,3,3,535
+GoAir,Banglore,Delhi,non-stop,No info,3419.0,27,6,175
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1495
+Air India,Delhi,Cochin,2 stops,No info,11447.0,6,6,1580
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,18,5,155
+Air India,Banglore,New Delhi,4 stops,Change airports,17686.0,1,3,1770
+Multiple carriers,Delhi,Cochin,3 stops,No info,21829.0,6,3,565
+SpiceJet,Banglore,Delhi,non-stop,No info,4423.0,12,5,175
+Air Asia,Kolkata,Banglore,non-stop,No info,3807.0,24,6,150
+Air India,Kolkata,Banglore,non-stop,No info,4435.0,15,3,155
+Jet Airways,Delhi,Cochin,1 stop,No info,14924.0,24,6,330
+IndiGo,Kolkata,Banglore,1 stop,No info,11160.0,6,6,295
+IndiGo,Mumbai,Hyderabad,non-stop,No info,5755.0,3,5,90
+Multiple carriers,Delhi,Cochin,2 stops,No info,34503.0,3,3,630
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,15342.0,6,3,615
+Multiple carriers,Delhi,Cochin,1 stop,No info,15342.0,3,3,650
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,27,6,180
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,9,5,910
+Multiple carriers,Delhi,Cochin,1 stop,No info,7354.0,3,6,755
+Jet Airways,Delhi,Cochin,2 stops,No info,13376.0,24,6,1320
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,18,5,140
+Jet Airways,Delhi,Cochin,2 stops,No info,13376.0,9,6,1790
+IndiGo,Chennai,Kolkata,non-stop,No info,3540.0,15,6,165
+Multiple carriers,Delhi,Cochin,1 stop,No info,9856.0,24,6,545
+Jet Airways,Banglore,New Delhi,1 stop,No info,54826.0,1,3,365
+IndiGo,Delhi,Cochin,1 stop,No info,6838.0,12,6,705
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,9,4,160
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,12,5,1010
+Air India,Kolkata,Banglore,2 stops,No info,14687.0,21,5,1200
+Air India,Kolkata,Banglore,2 stops,No info,14960.0,6,6,805
+Air Asia,Kolkata,Banglore,2 stops,No info,7870.0,9,6,500
+Air India,Banglore,New Delhi,1 stop,No info,6010.0,21,3,1520
+Air India,Kolkata,Banglore,1 stop,No info,8366.0,12,6,905
+SpiceJet,Banglore,New Delhi,non-stop,No info,6205.0,9,3,175
+Vistara,Delhi,Cochin,non-stop,No info,6216.0,27,6,190
+IndiGo,Delhi,Cochin,1 stop,No info,6628.0,27,6,975
+IndiGo,Delhi,Cochin,1 stop,No info,6104.0,27,5,845
+Multiple carriers,Delhi,Cochin,1 stop,No info,23533.0,1,3,395
+Air India,Delhi,Cochin,2 stops,No info,12173.0,3,6,500
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,6,6,590
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,6,1150
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,520
+Air India,Delhi,Cochin,2 stops,No info,10493.0,21,5,2240
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1640
+Air India,Delhi,Cochin,2 stops,No info,9443.0,21,5,1410
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,15,5,155
+Jet Airways,Delhi,Cochin,non-stop,In-flight meal not included,7202.0,9,3,195
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,1759.0,3,4,90
+IndiGo,Delhi,Cochin,1 stop,No info,9165.0,24,6,305
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,27,4,150
+Jet Airways,Kolkata,Banglore,1 stop,No info,11467.0,1,4,575
+Air India,Banglore,New Delhi,1 stop,No info,17198.0,1,3,1730
+Jet Airways,Kolkata,Banglore,1 stop,No info,13044.0,12,6,800
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,12,3,860
+Multiple carriers,Delhi,Cochin,1 stop,No info,15147.0,6,3,765
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,9,5,1055
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,15,6,1105
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,13502.0,6,3,1090
+Vistara,Chennai,Kolkata,non-stop,No info,11982.0,27,6,140
+Jet Airways,Delhi,Cochin,2 stops,No info,11538.0,27,3,750
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,9,6,800
+Air India,Delhi,Cochin,1 stop,No info,7199.0,21,3,675
+Air Asia,Kolkata,Banglore,1 stop,No info,5162.0,21,5,220
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,7229.0,15,6,185
+IndiGo,Delhi,Cochin,1 stop,No info,10112.0,12,6,305
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,27,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,12327.0,27,3,755
+Air India,Banglore,New Delhi,non-stop,No info,7801.0,9,3,165
+Air India,Kolkata,Banglore,1 stop,No info,7893.0,1,4,905
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,3,5,85
+Multiple carriers,Delhi,Cochin,1 stop,No info,21226.0,3,3,575
+Air India,Delhi,Cochin,non-stop,No info,5201.0,18,6,230
+Air India,Delhi,Cochin,1 stop,No info,5704.0,21,3,570
+IndiGo,Kolkata,Banglore,non-stop,No info,5224.0,21,4,150
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,1,6,135
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,27,6,330
+Air India,Banglore,New Delhi,1 stop,No info,6781.0,3,3,895
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,4319.0,15,5,170
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,15,6,1125
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,3,6,1680
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,6,4,150
+Jet Airways,Delhi,Cochin,1 stop,No info,17024.0,3,3,1260
+IndiGo,Delhi,Cochin,1 stop,No info,7094.0,6,3,515
+Air India,Delhi,Cochin,non-stop,No info,7931.0,3,3,170
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,1,5,180
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,1,6,170
+Jet Airways,Banglore,New Delhi,1 stop,No info,16736.0,6,3,805
+Multiple carriers,Delhi,Cochin,1 stop,No info,9103.0,9,5,845
+Multiple carriers,Delhi,Cochin,1 stop,No info,10678.0,6,6,845
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,27,5,145
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,24,4,155
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,1,5,1655
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,3,5,155
+Multiple carriers,Delhi,Cochin,1 stop,No info,11667.0,27,3,530
+Air India,Delhi,Cochin,2 stops,No info,12392.0,18,5,1560
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,1,4,175
+IndiGo,Delhi,Cochin,1 stop,No info,6386.0,9,6,345
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11627.0,6,6,1415
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1655
+Jet Airways,Banglore,New Delhi,1 stop,No info,17261.0,6,3,1365
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5769.0,12,6,185
+Jet Airways,Delhi,Cochin,2 stops,No info,12819.0,21,3,2565
+Air India,Kolkata,Banglore,1 stop,No info,8026.0,24,3,270
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11848.0,9,3,1570
+Air India,Delhi,Cochin,2 stops,No info,9706.0,21,3,1180
+Multiple carriers,Delhi,Cochin,1 stop,No info,9627.0,1,5,630
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2759.0,15,3,90
+Air India,Delhi,Cochin,1 stop,No info,4487.0,9,4,1640
+IndiGo,Delhi,Cochin,1 stop,No info,6232.0,21,3,300
+Air India,Kolkata,Banglore,2 stops,No info,12723.0,18,5,1840
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,1,4,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,14323.0,15,5,555
+IndiGo,Kolkata,Banglore,1 stop,No info,6991.0,24,5,320
+Multiple carriers,Delhi,Cochin,1 stop,No info,13587.0,9,6,835
+Jet Airways,Banglore,New Delhi,1 stop,No info,27992.0,1,3,375
+GoAir,Delhi,Cochin,1 stop,No info,6195.0,15,4,355
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,9,6,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,9103.0,27,5,455
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,3,5,180
+Multiple carriers,Delhi,Cochin,1 stop,No info,9838.0,21,3,470
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,1,4,165
+Jet Airways,Delhi,Cochin,1 stop,No info,16079.0,27,5,600
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,9,6,390
+Air India,Delhi,Cochin,2 stops,No info,9443.0,24,6,1410
+IndiGo,Delhi,Cochin,non-stop,No info,5000.0,24,6,195
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,450
+Jet Airways,Banglore,New Delhi,1 stop,No info,17471.0,6,3,1355
+Multiple carriers,Delhi,Cochin,1 stop,No info,11789.0,12,6,395
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,3,3,635
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,6,5,740
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,3210.0,18,5,90
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,18,6,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,15,5,800
+Air India,Kolkata,Banglore,2 stops,No info,14424.0,15,5,1345
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3815.0,27,3,140
+Vistara,Kolkata,Banglore,1 stop,No info,8610.0,1,5,790
+IndiGo,Banglore,New Delhi,non-stop,No info,6860.0,9,3,175
+Air India,Mumbai,Hyderabad,2 stops,No info,13169.0,6,3,1630
+Air India,Kolkata,Banglore,non-stop,No info,5510.0,6,5,150
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,18,5,1655
+Vistara,Banglore,New Delhi,non-stop,No info,7923.0,9,3,160
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,27,4,455
+Vistara,Kolkata,Banglore,1 stop,No info,8610.0,1,5,1640
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,12,5,585
+Air India,Mumbai,Hyderabad,non-stop,No info,2050.0,21,3,80
+Multiple carriers,Delhi,Cochin,1 stop,No info,9526.0,15,6,795
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,7832.0,21,3,580
+Air India,Kolkata,Banglore,2 stops,No info,13437.0,12,5,970
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,24,6,1295
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8529.0,12,6,960
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7594.0,12,6,450
+Air India,Kolkata,Banglore,2 stops,No info,10361.0,18,5,1830
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,12,5,180
+SpiceJet,Delhi,Cochin,1 stop,No info,4957.0,27,6,295
+IndiGo,Kolkata,Banglore,non-stop,No info,5644.0,9,6,150
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,6,3,90
+Jet Airways,Kolkata,Banglore,1 stop,No info,14231.0,24,3,1325
+IndiGo,Delhi,Cochin,1 stop,No info,6838.0,27,3,615
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,15,4,175
+Air India,Kolkata,Banglore,1 stop,No info,8366.0,12,6,1100
+SpiceJet,Kolkata,Banglore,non-stop,No info,4174.0,24,4,145
+Multiple carriers,Delhi,Cochin,1 stop,No info,10678.0,12,6,460
+Jet Airways,Banglore,New Delhi,1 stop,No info,17261.0,6,3,1110
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,21,5,510
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,1505
+Air India,Delhi,Cochin,2 stops,No info,10756.0,9,6,1600
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,3,6,540
+Jet Airways,Delhi,Cochin,1 stop,No info,12032.0,27,3,705
+Air India,Banglore,Delhi,non-stop,No info,5228.0,24,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,10877.0,12,6,610
+IndiGo,Delhi,Cochin,1 stop,No info,5073.0,1,4,275
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,8147.0,24,3,1280
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9314.0,1,5,1365
+IndiGo,Delhi,Cochin,1 stop,No info,6938.0,27,5,380
+Air India,Delhi,Cochin,1 stop,No info,8372.0,6,6,640
+Air India,Kolkata,Banglore,1 stop,No info,6612.0,12,5,1515
+Multiple carriers,Delhi,Cochin,1 stop,No info,10051.0,27,5,630
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,3,5,85
+Multiple carriers,Delhi,Cochin,1 stop,No info,11098.0,1,6,460
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5406.0,1,4,1235
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,1,6,165
+Air Asia,Banglore,New Delhi,non-stop,No info,4482.0,24,3,165
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,5608.0,21,5,435
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4030.0,24,5,180
+IndiGo,Delhi,Cochin,1 stop,No info,5883.0,12,6,415
+IndiGo,Chennai,Kolkata,non-stop,No info,7295.0,3,3,140
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,8728.0,21,3,1735
+SpiceJet,Kolkata,Banglore,1 stop,No info,7646.0,1,4,330
+IndiGo,Kolkata,Banglore,1 stop,No info,4565.0,9,5,315
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,15,4,155
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,1280
+IndiGo,Delhi,Cochin,1 stop,No info,12351.0,9,3,860
+IndiGo,Delhi,Cochin,non-stop,No info,5000.0,9,5,195
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,6,4,165
+Air India,Kolkata,Banglore,2 stops,No info,11201.0,9,6,875
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,9,6,805
+Air India,Delhi,Cochin,2 stops,No info,14431.0,27,6,1490
+Air India,Banglore,Delhi,non-stop,No info,6121.0,24,4,165
+SpiceJet,Kolkata,Banglore,non-stop,No info,4174.0,21,4,155
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,5,730
+IndiGo,Banglore,Delhi,non-stop,No info,4990.0,12,4,180
+Air India,Banglore,Delhi,non-stop,No info,5228.0,21,4,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,7354.0,3,6,470
+Air Asia,Delhi,Cochin,1 stop,No info,6752.0,24,6,830
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,10972.0,18,3,780
+IndiGo,Banglore,New Delhi,non-stop,No info,7648.0,9,3,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,27,6,1210
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,1220
+Air India,Delhi,Cochin,1 stop,No info,8907.0,1,6,795
+IndiGo,Delhi,Cochin,1 stop,No info,6628.0,12,6,975
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,27,3,85
+Jet Airways,Delhi,Cochin,2 stops,No info,13292.0,9,6,1620
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,7045.0,21,3,530
+Air India,Delhi,Cochin,2 stops,No info,13748.0,6,3,800
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,6,6,1025
+IndiGo,Delhi,Cochin,1 stop,No info,6979.0,15,5,480
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,3,4,155
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1485
+Air India,Kolkata,Banglore,2 stops,No info,11148.0,1,5,1390
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1040
+Air India,Delhi,Cochin,1 stop,No info,8372.0,27,5,1335
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,6,6,1335
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,1150
+Air India,Kolkata,Banglore,non-stop,No info,4145.0,1,6,155
+IndiGo,Delhi,Cochin,1 stop,No info,7923.0,15,5,570
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,21,4,175
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,27,6,1010
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,9,4,165
+Air India,Delhi,Cochin,1 stop,No info,8372.0,21,5,555
+Multiple carriers,Delhi,Cochin,1 stop,No info,10197.0,18,5,720
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5177.0,6,4,1005
+Air Asia,Kolkata,Banglore,1 stop,No info,7870.0,9,6,955
+IndiGo,Kolkata,Banglore,1 stop,No info,4775.0,6,5,290
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,21,4,160
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,3,6,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,1015
+Jet Airways,Delhi,Cochin,1 stop,No info,12242.0,9,4,335
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,9,6,660
+SpiceJet,Chennai,Kolkata,non-stop,No info,6300.0,9,3,155
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,14053.0,9,3,1610
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,11841.0,6,5,425
+Air India,Kolkata,Banglore,2 stops,No info,13873.0,24,5,920
+Air India,Mumbai,Hyderabad,non-stop,No info,3100.0,27,6,80
+IndiGo,Delhi,Cochin,1 stop,No info,6147.0,12,6,320
+Jet Airways,Kolkata,Banglore,1 stop,No info,13339.0,24,3,590
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,6007.0,24,6,490
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3342.0,15,3,90
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,12,6,1005
+Jet Airways,Delhi,Cochin,1 stop,No info,12347.0,21,3,1415
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,15,5,1400
+Air India,Delhi,Cochin,1 stop,No info,8991.0,12,6,1350
+Air India,Kolkata,Banglore,2 stops,No info,13033.0,9,5,920
+Jet Airways,Kolkata,Banglore,1 stop,No info,13044.0,12,6,730
+Jet Airways,Kolkata,Banglore,1 stop,No info,12692.0,9,6,1685
+Jet Airways,Banglore,New Delhi,1 stop,No info,17261.0,6,3,695
+Air India,Kolkata,Banglore,2 stops,No info,14298.0,6,5,1440
+IndiGo,Kolkata,Banglore,1 stop,No info,4860.0,24,4,275
+Air India,Kolkata,Banglore,2 stops,No info,11432.0,9,5,895
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10577.0,12,6,660
+Jet Airways,Delhi,Cochin,1 stop,No info,15554.0,18,5,1210
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,27,6,170
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,520
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,27,4,170
+IndiGo,Delhi,Cochin,non-stop,No info,6541.0,1,6,195
+Air India,Banglore,Delhi,non-stop,No info,6121.0,3,5,170
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3257.0,3,6,175
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,18,5,185
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,21,5,1610
+Vistara,Delhi,Cochin,non-stop,No info,8001.0,6,3,175
+Air India,Delhi,Cochin,2 stops,No info,17476.0,9,3,1940
+IndiGo,Kolkata,Banglore,non-stop,No info,5198.0,21,3,165
+Multiple carriers,Delhi,Cochin,1 stop,No info,8143.0,24,6,720
+IndiGo,Kolkata,Banglore,1 stop,No info,6284.0,1,4,325
+IndiGo,Banglore,New Delhi,non-stop,No info,8855.0,3,3,170
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,24,5,170
+IndiGo,Chennai,Kolkata,non-stop,No info,3850.0,1,6,140
+Vistara,Kolkata,Banglore,1 stop,No info,7927.0,12,6,965
+Multiple carriers,Delhi,Cochin,2 stops,No info,18275.0,12,6,460
+Jet Airways,Kolkata,Banglore,1 stop,No info,13067.0,6,5,1520
+IndiGo,Delhi,Cochin,1 stop,No info,6069.0,6,6,300
+Multiple carriers,Delhi,Cochin,1 stop,No info,12327.0,27,3,665
+Air India,Banglore,Delhi,non-stop,No info,5228.0,6,5,165
+Air Asia,Delhi,Cochin,1 stop,No info,8327.0,9,3,660
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,9,5,1215
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,27,6,175
+IndiGo,Delhi,Cochin,1 stop,No info,5883.0,12,6,895
+Air India,Banglore,New Delhi,1 stop,No info,10394.0,3,3,1405
+Air India,Kolkata,Banglore,non-stop,No info,4145.0,3,5,155
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,7832.0,21,3,800
+Multiple carriers,Delhi,Cochin,1 stop,No info,7198.0,12,6,450
+Jet Airways,Kolkata,Banglore,1 stop,No info,14388.0,1,5,1315
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,8098.0,27,3,1570
+Jet Airways,Kolkata,Banglore,1 stop,No info,14151.0,24,5,1630
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,18,5,1430
+Air Asia,Banglore,Delhi,non-stop,No info,3383.0,21,6,170
+GoAir,Banglore,New Delhi,non-stop,No info,11111.0,1,3,175
+Jet Airways,Delhi,Cochin,2 stops,No info,13882.0,24,6,1630
+Air India,Kolkata,Banglore,2 stops,No info,14482.0,15,5,1700
+IndiGo,Delhi,Cochin,1 stop,No info,6416.0,1,6,575
+Jet Airways,Delhi,Cochin,2 stops,No info,13882.0,27,6,1490
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,1,6,1015
+Air India,Mumbai,Hyderabad,1 stop,No info,12308.0,6,3,850
+Multiple carriers,Delhi,Cochin,1 stop,No info,7845.0,27,3,395
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,12,5,140
+Air Asia,Banglore,Delhi,non-stop,No info,3383.0,24,5,165
+SpiceJet,Banglore,Delhi,non-stop,No info,4991.0,9,5,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,21,5,615
+Multiple carriers,Delhi,Cochin,1 stop,No info,13062.0,21,3,420
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3815.0,15,3,160
+Jet Airways,Delhi,Cochin,non-stop,No info,9564.0,12,5,195
+IndiGo,Chennai,Kolkata,non-stop,No info,3384.0,27,3,140
+Jet Airways,Banglore,New Delhi,1 stop,No info,25735.0,1,3,1425
+Air India,Delhi,Cochin,1 stop,No info,7174.0,27,5,320
+Vistara,Banglore,Delhi,non-stop,No info,4878.0,15,5,165
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,6224.0,12,6,730
+Jet Airways,Delhi,Cochin,2 stops,No info,16274.0,27,5,425
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,9134.0,15,3,1420
+IndiGo,Banglore,New Delhi,1 stop,No info,7280.0,9,3,310
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,3,6,90
+Jet Airways,Kolkata,Banglore,1 stop,No info,12692.0,12,6,505
+SpiceJet,Delhi,Cochin,1 stop,No info,5583.0,3,6,315
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,3,3,485
+SpiceJet,Kolkata,Banglore,1 stop,No info,6643.0,6,6,520
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,6,330
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,12,6,895
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,8040.0,6,5,90
+IndiGo,Chennai,Kolkata,non-stop,No info,3540.0,21,6,145
+Vistara,Banglore,Delhi,non-stop,No info,5613.0,27,4,170
+Air India,Delhi,Cochin,2 stops,No info,13381.0,9,6,1730
+IndiGo,Delhi,Cochin,1 stop,No info,6818.0,15,6,665
+Air India,Kolkata,Banglore,2 stops,No info,15107.0,21,5,1320
+Multiple carriers,Delhi,Cochin,1 stop,No info,10877.0,9,6,740
+Multiple carriers,Delhi,Cochin,1 stop,No info,7740.0,1,6,735
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,21,5,175
+Air India,Kolkata,Banglore,1 stop,No info,6117.0,6,5,580
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,11507.0,15,6,810
+Air India,Mumbai,Hyderabad,non-stop,No info,4307.0,12,3,75
+Jet Airways,Banglore,New Delhi,1 stop,No info,12284.0,18,3,1420
+Air India,Delhi,Cochin,2 stops,No info,13591.0,27,6,1730
+Vistara,Mumbai,Hyderabad,1 stop,No info,12395.0,6,3,750
+Jet Airways,Kolkata,Banglore,1 stop,No info,12121.0,15,5,690
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,6643.0,27,3,1995
+Multiple carriers,Delhi,Cochin,1 stop,No info,10877.0,24,6,690
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,18260.0,9,3,755
+Jet Airways,Kolkata,Banglore,1 stop,No info,14781.0,15,5,685
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,6,5,170
+Multiple carriers,Delhi,Cochin,2 stops,No info,18191.0,9,5,625
+Jet Airways,Banglore,New Delhi,1 stop,No info,13555.0,18,3,365
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,5755.0,3,3,80
+IndiGo,Delhi,Cochin,non-stop,No info,5601.0,27,5,195
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,1210
+Jet Airways,Delhi,Cochin,non-stop,No info,9564.0,18,4,195
+IndiGo,Kolkata,Banglore,1 stop,No info,5069.0,1,4,290
+GoAir,Banglore,Delhi,non-stop,No info,4632.0,24,4,175
+SpiceJet,Delhi,Cochin,1 stop,No check-in baggage included,4760.0,24,4,270
+Air India,Kolkata,Banglore,1 stop,No info,7662.0,6,6,1515
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,1,6,140
+Vistara,Banglore,New Delhi,non-stop,No info,12648.0,1,3,160
+Air Asia,Delhi,Cochin,1 stop,No info,6151.0,27,3,330
+Air India,Kolkata,Banglore,2 stops,No info,13437.0,12,5,1410
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,21,6,180
+Air Asia,Kolkata,Banglore,non-stop,No info,3782.0,27,3,150
+Jet Airways,Banglore,New Delhi,1 stop,No info,19225.0,6,3,460
+Multiple carriers Premium economy,Delhi,Cochin,1 stop,No info,9845.0,21,3,725
+Multiple carriers,Delhi,Cochin,1 stop,No info,6673.0,27,3,515
+Multiple carriers,Delhi,Cochin,1 stop,No info,8371.0,27,3,795
+Air India,Kolkata,Banglore,2 stops,No info,13873.0,24,5,1100
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1235
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,3,5,175
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,6,5,585
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,9134.0,15,3,570
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,9,6,1295
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,5608.0,1,5,435
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,1965.0,6,6,90
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,12475.0,1,3,80
+Vistara,Chennai,Kolkata,non-stop,No info,3687.0,3,6,135
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,27,6,330
+Jet Airways,Delhi,Cochin,1 stop,No info,12452.0,27,3,1225
+Air India,Delhi,Cochin,non-stop,No info,8456.0,9,6,185
+Jet Airways,Kolkata,Banglore,1 stop,No info,12681.0,1,4,1595
+Jet Airways,Banglore,New Delhi,1 stop,No info,26890.0,1,3,685
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,24,6,360
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,3,5,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,12,6,780
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,13848.0,18,5,830
+IndiGo,Delhi,Cochin,1 stop,No info,9264.0,21,3,575
+IndiGo,Banglore,New Delhi,non-stop,No info,7648.0,9,3,180
+Air India,Banglore,Delhi,non-stop,No info,5228.0,6,5,170
+Air India,Delhi,Cochin,non-stop,No info,5201.0,24,6,180
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,12,5,800
+Vistara,Kolkata,Banglore,1 stop,No info,11682.0,24,3,1560
+Multiple carriers,Delhi,Cochin,1 stop,No info,15147.0,3,3,640
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,11134.0,24,3,345
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,620
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,6,4,170
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,5515.0,18,4,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9663.0,15,5,450
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,18,5,175
+IndiGo,Mumbai,Hyderabad,non-stop,No info,3175.0,15,5,90
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,15812.0,15,6,440
+Air India,Delhi,Cochin,2 stops,No info,8656.0,27,3,1595
+IndiGo,Banglore,New Delhi,non-stop,No info,4545.0,18,3,170
+Air Asia,Kolkata,Banglore,1 stop,No info,5192.0,15,5,955
+Air India,Banglore,New Delhi,1 stop,No info,10321.0,9,3,1490
+IndiGo,Chennai,Kolkata,non-stop,No info,6297.0,12,3,145
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,24,5,1430
+IndiGo,Delhi,Cochin,non-stop,No info,5601.0,12,6,195
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,6,5,140
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2017.0,6,5,90
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,18,4,185
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,6,6,300
+Jet Airways,Delhi,Cochin,1 stop,No info,14714.0,1,6,395
+Air India,Mumbai,Hyderabad,non-stop,No info,3100.0,21,6,85
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2227.0,27,5,90
+IndiGo,Banglore,New Delhi,non-stop,No info,6144.0,15,3,170
+Air India,Banglore,New Delhi,2 stops,No info,12725.0,12,3,1800
+Air India,Kolkata,Banglore,2 stops,No info,14960.0,12,6,1385
+Air Asia,Delhi,Cochin,1 stop,No info,13474.0,3,3,865
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,6,4,155
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10919.0,27,6,1790
+Jet Airways,Delhi,Cochin,1 stop,No info,17024.0,6,3,1240
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,21,5,730
+IndiGo,Chennai,Kolkata,non-stop,No info,5277.0,27,5,140
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,21,5,1150
+IndiGo,Kolkata,Banglore,non-stop,No info,4174.0,6,4,155
+Air India,Banglore,Delhi,non-stop,No info,5228.0,21,6,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8529.0,12,6,1575
+Multiple carriers,Delhi,Cochin,2 stops,No info,16655.0,21,5,625
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,12,5,165
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3332.0,21,3,155
+SpiceJet,Delhi,Cochin,1 stop,No info,4957.0,24,4,295
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4050.0,9,6,85
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,18,3,85
+Jet Airways,Delhi,Cochin,1 stop,No info,15554.0,18,5,335
+Air India,Delhi,Cochin,3 stops,No info,10493.0,27,5,2280
+Jet Airways,Banglore,New Delhi,1 stop,No info,13817.0,12,3,525
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2228.0,1,5,90
+Air India,Kolkata,Banglore,2 stops,No info,9258.0,1,4,1390
+SpiceJet,Banglore,New Delhi,non-stop,No info,7110.0,9,3,170
+SpiceJet,Delhi,Cochin,1 stop,No info,5899.0,15,4,380
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,21,5,465
+Multiple carriers,Delhi,Cochin,1 stop,No info,12537.0,27,3,720
+Jet Airways,Delhi,Cochin,non-stop,No info,9564.0,18,6,195
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,18,3,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,7670.0,15,5,490
+SpiceJet,Chennai,Kolkata,non-stop,No info,3911.0,9,5,135
+SpiceJet,Delhi,Cochin,1 stop,No info,11349.0,3,3,360
+Air Asia,Kolkata,Banglore,non-stop,No info,4082.0,21,3,155
+Vistara,Kolkata,Banglore,1 stop,No info,8085.0,12,5,1625
+Air India,Banglore,New Delhi,1 stop,No info,13439.0,1,3,1330
+Air India,Banglore,Delhi,non-stop,No info,4441.0,9,4,180
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,5177.0,3,4,300
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,745
+Air India,Kolkata,Banglore,1 stop,No info,10413.0,24,5,1435
+Multiple carriers,Delhi,Cochin,1 stop,No info,12524.0,24,6,615
+IndiGo,Kolkata,Banglore,1 stop,No info,5380.0,9,6,315
+Jet Airways,Kolkata,Banglore,1 stop,No info,10624.0,9,5,1500
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,18,6,90
+Jet Airways,Kolkata,Banglore,1 stop,No info,13067.0,18,5,1730
+Jet Airways,Kolkata,Banglore,1 stop,No info,12121.0,9,5,1450
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,21,5,1570
+Air India,Delhi,Cochin,2 stops,No info,8367.0,27,3,865
+Multiple carriers,Delhi,Cochin,1 stop,No info,6883.0,21,3,780
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,18,5,805
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,15,6,480
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,21,5,510
+Air India,Kolkata,Banglore,1 stop,No info,7211.0,1,4,1605
+Air India,Banglore,New Delhi,non-stop,No info,7276.0,15,3,165
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,18,5,535
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11399.0,9,5,660
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,7229.0,1,6,185
+SpiceJet,Chennai,Kolkata,non-stop,No check-in baggage included,3543.0,9,6,135
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3573.0,27,5,170
+Jet Airways,Banglore,New Delhi,1 stop,No info,13817.0,12,3,745
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,18,5,585
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8529.0,12,6,1655
+Air Asia,Delhi,Cochin,1 stop,No info,6152.0,24,6,330
+Air Asia,Kolkata,Banglore,non-stop,No info,4409.0,3,6,150
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10919.0,27,6,1320
+IndiGo,Banglore,New Delhi,non-stop,No info,6860.0,21,3,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,9794.0,9,5,615
+Jet Airways,Delhi,Cochin,2 stops,No info,18804.0,24,6,440
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10539.0,9,6,1480
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,21,5,140
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2017.0,9,5,90
+IndiGo,Banglore,New Delhi,non-stop,No info,6144.0,9,3,170
+Multiple carriers,Delhi,Cochin,1 stop,No info,7408.0,6,6,840
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10539.0,6,6,505
+Air India,Delhi,Cochin,1 stop,No info,7480.0,15,6,765
+Jet Airways,Delhi,Cochin,2 stops,No info,10929.0,27,3,1475
+Air India,Delhi,Cochin,1 stop,No info,6587.0,6,6,1535
+Vistara,Banglore,Delhi,non-stop,No info,5613.0,6,4,155
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,6,4,180
+IndiGo,Banglore,New Delhi,non-stop,No info,11934.0,1,3,175
+IndiGo,Banglore,Delhi,non-stop,No info,4077.0,1,6,165
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,1,5,175
+Multiple carriers,Delhi,Cochin,1 stop,No info,14848.0,3,6,465
+Jet Airways,Delhi,Cochin,1 stop,No info,12767.0,21,3,1670
+Air India,Delhi,Cochin,2 stops,No info,9601.0,15,5,435
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,9134.0,15,3,340
+Air India,Delhi,Cochin,2 stops,No info,13381.0,12,6,1730
+Vistara,Kolkata,Banglore,1 stop,No info,9555.0,9,6,700
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,15,6,1025
+Air India,Kolkata,Banglore,non-stop,No info,5510.0,27,6,150
+Air India,Mumbai,Hyderabad,1 stop,No info,10208.0,12,3,810
+GoAir,Banglore,Delhi,non-stop,No info,3419.0,15,5,175
+IndiGo,Delhi,Cochin,1 stop,No info,5703.0,21,4,275
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,3,4,180
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,27,6,160
+GoAir,Banglore,New Delhi,non-stop,No info,7222.0,3,3,175
+IndiGo,Kolkata,Banglore,1 stop,No info,5380.0,15,5,290
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12373.0,9,5,1425
+SpiceJet,Delhi,Cochin,1 stop,No info,5975.0,18,5,295
+Jet Airways,Banglore,Delhi,non-stop,No info,7229.0,12,5,180
+Vistara,Banglore,Delhi,non-stop,No info,4668.0,24,6,170
+Jet Airways,Delhi,Cochin,2 stops,No info,11360.0,21,3,485
+Vistara,Kolkata,Banglore,1 stop,No info,8452.0,12,6,1655
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,12,5,175
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,9,6,1125
+Air India,Delhi,Cochin,1 stop,No info,8372.0,24,6,760
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,15,6,165
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,12,6,90
+Air India,Delhi,Cochin,1 stop,No info,5117.0,27,3,1640
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,18,5,1590
+Jet Airways,Delhi,Cochin,2 stops,No info,13014.0,9,6,1125
+IndiGo,Kolkata,Banglore,1 stop,No info,6711.0,6,6,315
+Air India,Kolkata,Banglore,1 stop,No info,10203.0,12,5,795
+Jet Airways,Delhi,Cochin,1 stop,No info,15029.0,9,3,1685
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,3,6,170
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,18,5,155
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1280
+IndiGo,Delhi,Cochin,1 stop,No info,7503.0,18,5,630
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,6,6,170
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,18,4,145
+Multiple carriers,Delhi,Cochin,1 stop,No info,7363.0,21,3,515
+Jet Airways,Delhi,Cochin,2 stops,No info,13292.0,12,6,1375
+Jet Airways,Delhi,Cochin,2 stops,No info,13376.0,12,6,1320
+IndiGo,Kolkata,Banglore,non-stop,No info,6565.0,1,3,155
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,7268.0,27,6,455
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,9,6,1400
+IndiGo,Delhi,Cochin,1 stop,No info,6979.0,15,5,895
+Multiple carriers,Delhi,Cochin,2 stops,No info,7178.0,21,3,695
+Air India,Kolkata,Banglore,2 stops,No info,6117.0,12,6,1170
+Air India,Delhi,Cochin,1 stop,No info,6902.0,27,3,555
+IndiGo,Banglore,New Delhi,non-stop,No info,10067.0,1,3,170
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,11507.0,12,6,910
+IndiGo,Banglore,Delhi,non-stop,No info,3419.0,18,6,170
+SpiceJet,Banglore,Delhi,non-stop,No info,3625.0,9,6,160
+Air India,Delhi,Cochin,1 stop,No info,8425.0,27,5,1535
+Jet Airways,Delhi,Cochin,2 stops,No info,13014.0,27,6,810
+Air Asia,Banglore,Delhi,non-stop,No info,4282.0,9,4,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,9899.0,12,6,475
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,6,5,685
+Air Asia,Kolkata,Banglore,1 stop,No info,6857.0,18,5,220
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,18,6,85
+Air India,Banglore,New Delhi,2 stops,No info,11474.0,12,3,965
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,18,5,515
+Multiple carriers,Delhi,Cochin,1 stop,No info,9627.0,21,5,585
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,1,5,175
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,27,5,1760
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,6,5,90
+GoAir,Delhi,Cochin,1 stop,No info,5281.0,12,6,355
+Air India,Kolkata,Banglore,2 stops,No info,11642.0,9,6,1210
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,13344.0,6,6,425
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,9,4,170
+Air India,Banglore,New Delhi,non-stop,No info,4441.0,24,3,165
+Air India,Banglore,New Delhi,2 stops,No info,11791.0,3,3,2420
+Air Asia,Delhi,Cochin,1 stop,No info,11410.0,6,6,340
+GoAir,Delhi,Cochin,1 stop,No info,6276.0,9,6,365
+Multiple carriers,Delhi,Cochin,1 stop,No info,18286.0,3,3,845
+IndiGo,Chennai,Kolkata,non-stop,No info,3850.0,24,6,140
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,12,6,455
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,27,6,810
+Multiple carriers,Delhi,Cochin,1 stop,No info,7575.0,15,5,470
+Multiple carriers,Delhi,Cochin,1 stop,No info,14486.0,21,3,375
+Multiple carriers,Delhi,Cochin,1 stop,No info,7575.0,21,5,520
+IndiGo,Banglore,New Delhi,1 stop,No info,4049.0,18,3,295
+Jet Airways,Kolkata,Banglore,1 stop,No info,12681.0,1,4,960
+IndiGo,Kolkata,Banglore,1 stop,No info,4176.0,12,5,300
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4049.0,21,3,85
+IndiGo,Chennai,Kolkata,non-stop,No info,3597.0,12,5,140
+GoAir,Delhi,Cochin,1 stop,No info,6393.0,6,3,440
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3573.0,27,6,160
+Multiple carriers,Delhi,Cochin,1 stop,No info,6883.0,27,3,780
+Vistara,Banglore,Delhi,non-stop,No info,4878.0,15,6,155
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,24,4,165
+Vistara,Kolkata,Banglore,1 stop,No info,9345.0,18,5,1625
+Jet Airways,Delhi,Cochin,2 stops,In-flight meal not included,10368.0,1,6,1375
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,15,6,90
+Jet Airways,Delhi,Cochin,2 stops,No info,14237.0,12,6,1090
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,4995.0,15,5,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,11098.0,21,3,845
+SpiceJet,Kolkata,Banglore,non-stop,No info,4174.0,18,5,150
+GoAir,Banglore,Delhi,non-stop,No info,4632.0,6,4,175
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,24,6,865
+Air Asia,Banglore,Delhi,non-stop,No info,4282.0,21,6,170
+SpiceJet,Kolkata,Banglore,1 stop,No info,6381.0,21,5,520
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,12,5,1545
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1295
+IndiGo,Delhi,Cochin,1 stop,No info,6526.0,27,5,810
+IndiGo,Delhi,Cochin,1 stop,No info,7054.0,6,5,490
+Multiple carriers,Delhi,Cochin,2 stops,No info,7084.0,6,3,855
+Jet Airways,Kolkata,Banglore,1 stop,No info,12121.0,1,5,750
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,6,5,165
+Jet Airways,Banglore,Delhi,non-stop,No info,8016.0,1,6,180
+Jet Airways,Delhi,Cochin,2 stops,No info,10976.0,27,3,1475
+Air Asia,Kolkata,Banglore,non-stop,No info,3782.0,21,3,150
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,21,6,155
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,27,5,90
+IndiGo,Mumbai,Hyderabad,non-stop,No info,2754.0,27,6,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,7740.0,3,6,735
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,6,5,155
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,11134.0,24,3,1025
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,24,3,90
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10031.0,24,3,1235
+IndiGo,Delhi,Cochin,1 stop,No info,5883.0,15,6,895
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,15103.0,6,3,350
+Jet Airways,Banglore,New Delhi,1 stop,No info,31825.0,1,3,860
+SpiceJet,Banglore,Delhi,non-stop,No info,3311.0,6,6,175
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,18,5,685
+Air India,Banglore,New Delhi,2 stops,No info,12305.0,18,3,1670
+Multiple carriers,Delhi,Cochin,1 stop,No info,11667.0,27,3,650
+SpiceJet,Chennai,Kolkata,non-stop,No info,3597.0,27,6,140
+IndiGo,Banglore,Delhi,non-stop,No info,4823.0,18,5,170
+IndiGo,Chennai,Kolkata,non-stop,No info,4326.0,27,3,140
+Jet Airways,Delhi,Cochin,2 stops,No info,15129.0,9,5,1375
+IndiGo,Delhi,Cochin,1 stop,No info,10141.0,27,3,380
+IndiGo,Delhi,Cochin,non-stop,No info,6015.0,9,6,195
+Multiple carriers,Delhi,Cochin,1 stop,No info,9794.0,15,5,780
+Multiple carriers,Delhi,Cochin,1 stop,No info,11622.0,9,6,585
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,4319.0,18,5,170
+SpiceJet,Delhi,Cochin,1 stop,No info,5583.0,1,6,315
+Air India,Kolkata,Banglore,2 stops,No info,12723.0,9,6,1625
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,27,5,165
+IndiGo,Delhi,Cochin,1 stop,No info,6093.0,15,6,860
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,9,6,1655
+Jet Airways,Kolkata,Banglore,1 stop,No info,14571.0,9,6,425
+SpiceJet,Kolkata,Banglore,non-stop,No info,3873.0,3,4,155
+SpiceJet,Kolkata,Banglore,non-stop,No info,4174.0,9,6,150
+GoAir,Delhi,Cochin,1 stop,No info,6841.0,27,5,370
+Multiple carriers,Delhi,Cochin,1 stop,No info,9646.0,6,6,545
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,7153.0,27,5,420
+IndiGo,Kolkata,Banglore,1 stop,No info,9319.0,24,3,345
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,4544.0,1,5,175
+SpiceJet,Mumbai,Hyderabad,non-stop,No info,2017.0,15,5,90
+Jet Airways,Banglore,New Delhi,1 stop,No info,11507.0,12,3,885
+Multiple carriers,Delhi,Cochin,1 stop,No info,11789.0,15,6,780
+Air India,Kolkata,Banglore,2 stops,No info,13227.0,6,5,970
+Jet Airways,Kolkata,Banglore,1 stop,No info,13759.0,24,3,585
+Jet Airways,Delhi,Cochin,2 stops,No info,14300.0,12,6,1705
+SpiceJet,Kolkata,Banglore,1 stop,No info,4649.0,1,5,315
+SpiceJet,Banglore,Delhi,non-stop,No info,3971.0,24,5,175
+Air India,Delhi,Cochin,non-stop,No info,5674.0,21,3,185
+GoAir,Banglore,Delhi,non-stop,No info,3898.0,15,6,170
+Vistara,Kolkata,Banglore,1 stop,No info,8610.0,6,6,385
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,3,3,85
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,6,3,485
+Air India,Banglore,Delhi,non-stop,No info,6961.0,3,6,165
+Air India,Delhi,Cochin,2 stops,No info,11942.0,9,5,1470
+Vistara,Banglore,New Delhi,non-stop,No info,7398.0,9,3,160
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,13843.0,9,3,1050
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,15,6,630
+IndiGo,Kolkata,Banglore,non-stop,No info,5224.0,18,4,155
+GoAir,Banglore,New Delhi,non-stop,No info,6113.0,15,3,175
+Jet Airways,Banglore,New Delhi,1 stop,No info,9623.0,15,3,390
+Air India,Delhi,Cochin,2 stops,No info,10231.0,12,6,1600
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8529.0,12,6,1170
+Multiple carriers,Delhi,Cochin,1 stop,No info,13587.0,15,6,420
+Air India,Kolkata,Banglore,1 stop,No info,6528.0,6,5,1485
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,15,6,155
+Air India,Delhi,Cochin,1 stop,No info,7480.0,18,5,1255
+Air India,Delhi,Cochin,non-stop,No info,5201.0,24,4,185
+Air India,Kolkata,Banglore,2 stops,No info,5562.0,1,4,445
+Air India,Chennai,Kolkata,non-stop,No info,4667.0,27,5,135
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,15,4,180
+SpiceJet,Banglore,Delhi,non-stop,No check-in baggage included,3257.0,6,6,175
+IndiGo,Chennai,Kolkata,non-stop,No info,3540.0,15,5,145
+Air India,Delhi,Cochin,1 stop,No info,10671.0,15,5,705
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,18,5,155
+Jet Airways,Kolkata,Banglore,1 stop,No info,13941.0,18,5,775
+SpiceJet,Kolkata,Banglore,non-stop,No check-in baggage included,3841.0,15,4,150
+Jet Airways,Banglore,New Delhi,1 stop,In-flight meal not included,11087.0,18,3,965
+IndiGo,Delhi,Cochin,1 stop,No info,6093.0,24,6,860
+IndiGo,Banglore,Delhi,non-stop,No info,4423.0,24,4,170
+IndiGo,Delhi,Cochin,1 stop,No info,9274.0,9,5,570
+Air Asia,Delhi,Cochin,1 stop,No info,8759.0,6,6,330
+Multiple carriers,Delhi,Cochin,1 stop,In-flight meal not included,10546.0,9,5,835
+Jet Airways,Delhi,Cochin,1 stop,No info,16376.0,21,5,620
+IndiGo,Kolkata,Banglore,1 stop,No info,5192.0,24,5,290
+IndiGo,Banglore,New Delhi,non-stop,No info,6144.0,3,3,175
+IndiGo,Delhi,Cochin,1 stop,No info,6493.0,9,6,310
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,2071.0,27,3,90
+Multiple carriers,Delhi,Cochin,1 stop,No info,7005.0,12,6,900
+Vistara,Banglore,Delhi,non-stop,No info,5613.0,21,4,155
+Jet Airways,Mumbai,Hyderabad,non-stop,No info,5678.0,15,6,90
+Air India,Banglore,New Delhi,1 stop,No info,8425.0,9,3,785
+Multiple carriers,Delhi,Cochin,1 stop,No info,8266.0,6,6,385
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,7341.0,9,5,395
+IndiGo,Kolkata,Banglore,non-stop,No info,4488.0,1,4,155
+Jet Airways,Delhi,Cochin,1 stop,No info,17234.0,3,3,1610
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,1,5,730
+Vistara,Mumbai,Hyderabad,1 stop,No info,12395.0,6,3,435
+Jet Airways,Mumbai,Hyderabad,non-stop,In-flight meal not included,3210.0,1,5,85
+SpiceJet,Delhi,Cochin,1 stop,No info,5975.0,9,5,295
+Multiple carriers,Delhi,Cochin,1 stop,No info,10877.0,12,6,690
+Vistara,Banglore,Delhi,non-stop,No info,5613.0,6,4,170
+Air India,Delhi,Cochin,1 stop,No info,7480.0,1,6,1535
+Jet Airways,Delhi,Cochin,2 stops,No info,13882.0,15,6,1630
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,14053.0,9,3,1320
+IndiGo,Banglore,Delhi,non-stop,No info,3943.0,9,4,180
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,7438.0,27,3,1240
+Air India,Delhi,Cochin,2 stops,No info,10861.0,1,6,1275
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,15,5,425
+IndiGo,Delhi,Cochin,1 stop,No info,14871.0,6,3,480
+Jet Airways,Banglore,Delhi,non-stop,In-flight meal not included,5198.0,21,4,180
+IndiGo,Delhi,Cochin,1 stop,No info,6442.0,15,4,515
+IndiGo,Kolkata,Banglore,non-stop,No info,4804.0,24,4,155
+IndiGo,Mumbai,Hyderabad,non-stop,No info,4392.0,9,5,90
+Air India,Delhi,Cochin,non-stop,No info,6094.0,9,5,180
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,6,6,1395
+Air India,Kolkata,Banglore,1 stop,No info,6117.0,6,5,890
+SpiceJet,Mumbai,Hyderabad,non-stop,No check-in baggage included,2385.0,15,3,80
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,8586.0,6,5,1545
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,10262.0,9,6,865
+Air Asia,Banglore,Delhi,non-stop,No info,3383.0,27,5,170
+Jet Airways,Kolkata,Banglore,1 stop,In-flight meal not included,10844.0,21,5,800
+Multiple carriers,Delhi,Cochin,1 stop,No info,9315.0,21,5,690
+IndiGo,Delhi,Cochin,1 stop,No info,10351.0,27,3,710
+IndiGo,Kolkata,Banglore,non-stop,No info,4462.0,18,3,160
+Air India,Banglore,Delhi,non-stop,No info,6961.0,21,5,170
+Air India,Kolkata,Banglore,1 stop,No info,7742.0,24,3,1540
+IndiGo,Banglore,New Delhi,non-stop,No info,8033.0,24,3,170
+Air India,Mumbai,Hyderabad,non-stop,No info,2050.0,1,4,75
+Multiple carriers,Delhi,Cochin,2 stops,No info,18275.0,1,6,625
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1040
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,12898.0,27,5,1005
+Jet Airways,Delhi,Cochin,1 stop,In-flight meal not included,11627.0,3,6,1570
+Multiple carriers,Delhi,Cochin,1 stop,No info,6795.0,6,6,615
+Multiple carriers,Delhi,Cochin,1 stop,No info,13377.0,3,6,435

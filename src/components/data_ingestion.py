@@ -22,11 +22,19 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered Data Ingestion Component")
         try:
-            df = pd.read_csv(os.path.join('notebooks', 'data', 'cinemaTicket_Ref.csv')) # Dataset Loading from the source
+            data_path = os.path.join('notebooks', 'data', 'Flight-Price.xlsx')
+            df = pd.read_excel(data_path) # Dataset Loading from the source
             logging.info("Read Dataset")
             os.makedirs(os.path.dirname(self.ingestion_config.raw_data_path), exist_ok=True)
 
             # Making some necessary changes for this dataset only :)
+            df = df.dropna()
+            df[['Date_of_Journey']] = df[['Date_of_Journey']].apply(pd.to_datetime)
+            df['day'] = df['Date_of_Journey'].dt.day.astype(int)
+            df['month'] = df['Date_of_Journey'].dt.month.astype(int)
+            df['Duration_min'] = df['Duration'].str.extract('(\d+)h').fillna(0).astype(int) * 60 + df['Duration'].str.extract('(\d+)m').fillna(0).astype(int)
+
+            df = df.drop(columns=['Date_of_Journey', 'Dep_Time', 'Arrival_Time', 'Duration', 'Route', 'Unnamed: 0'])
             
             
             
