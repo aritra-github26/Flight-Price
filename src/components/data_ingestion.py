@@ -33,6 +33,15 @@ class DataIngestion:
             df['day'] = df['Date_of_Journey'].dt.day.astype(int)
             df['month'] = df['Date_of_Journey'].dt.month.astype(int)
             df['Duration_min'] = df['Duration'].str.extract('(\d+)h').fillna(0).astype(int) * 60 + df['Duration'].str.extract('(\d+)m').fillna(0).astype(int)
+            stops = {
+                'non-stop': 0,
+                '1 stop': 1,
+                '2 stops': 2,
+                '3 stops': 3,
+                '4 stops': 4
+            }
+
+            df['Total_Stops'] = df['Total_Stops'].map(stops)
 
             df = df.drop(columns=['Date_of_Journey', 'Dep_Time', 'Arrival_Time', 'Duration', 'Route', 'Unnamed: 0'])
             
