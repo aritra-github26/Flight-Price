@@ -7,9 +7,8 @@ from src.utils import save_object, evaluate_models
 
 import numpy as np
 import pandas as pd
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.linear_model import LinearRegression, Ridge, Lasso
-from sklearn.neighbors import KNeighborsRegressor
+from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor
+from xgboost import XGBRegressor
 from sklearn.metrics import r2_score
 
 @dataclass
@@ -32,13 +31,30 @@ class ModelTrainer:
             # Now, the model training part.
 
             models = {
-                'LinearRegression': LinearRegression(n_jobs=-1),
-                'Ridge': Ridge(),
-                'Lasso': Lasso(),
-                'GradientBoostingRegressor': GradientBoostingRegressor(learning_rate=0.1, n_estimators=200),
-                'KNeighborsRegressor': KNeighborsRegressor(n_neighbors=5, n_jobs=-1),
+                'RandomForestRegressor': RandomForestRegressor(),
+                'GradientBoostingRegressor': GradientBoostingRegressor(),
+                'XGBRegressor': XGBRegressor()
             }
-            model_report: dict = evaluate_models(X_train, y_train, X_test, y_test, models)
+
+            params = {
+                'RandomForestRegressor': {
+                    'n_estimators': [500, 1000],
+                    'max_depth': [9, 7]
+                },
+                'GradientBoostingRegressor': {
+                    'n_estimators': [1000, 500],
+                    'learning_rate': [0.2, 0.5]
+                },
+                'XGBRegressor': {
+                    'gamma': [0.1, 0.3],
+                    'max_depth': [3, 5],
+                    'learning_rate': [0.3, 0.5],
+                    'min_child_weight' : [3, 7]
+                }
+            }
+            model_report: dict = evaluate_models(
+                X_train, y_train, X_test, y_test, models, params
+            )
             logging.info("Model evaluation done")
             best_model_score = max(sorted(model_report.values()))
             best_model_name = list(model_report.keys())[list(model_report.values()).index(best_model_score)]
