@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Fare Predictor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Flight Fare Predictor</h1>
+    </header>
+    <main>
+        <section class="form-section">
+            <h2>Predict Flight Fare</h2>
+            <form action="/predict" method="post">
+                <label for="source">Source (Departure City):</label>
+                <select id="source" name="source" required>
+                    <option value="Banglore">Banglore</option>
+                    <option value="Kolkata">Kolkata</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Chennai">Chennai</option>
+                    <option value="Mumbai">Mumbai</option>
+                </select>
+
+                <label for="destination">Destination (Arrival City):</label>
+                <select id="destination" name="destination" required>
+                    <option value="New Delhi">New Delhi</option>
+                    <option value="Banglore">Banglore</option>
+                    <option value="Cochin">Cochin</option>
+                    <option value="Kolkata">Kolkata</option>
+                    <option value="Delhi">Delhi</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                </select>
+
+                <label for="airline">Airline:</label>
+                <select id="airline" name="airline" required>
+                    <option value="">Select an airline</option>
+                    <option value="IndiGo">IndiGo</option>
+                    <option value="Air India">Air India</option>
+                    <option value="Jet Airways">Jet Airways</option>
+                    <option value="SpiceJet">SpiceJet</option>
+                    <option value="Multiple carriers">Multiple carriers</option>
+                    <option value="GoAir">GoAir</option>
+                    <option value="Vistara">Vistara</option>
+                    <option value="Air Asia">Air Asia</option>
+                    <option value="Vistara Premium economy">Vistara Premium economy</option>
+                    <option value="Jet Airways Business">Jet Airways Business</option>
+                    <option value="Multiple carriers Premium economy">Multiple carriers Premium economy</option>
+                    <option value="Trujet">Trujet</option>
+                </select>
+
+                <label for="additional_info">Additional Info:</label>
+                <select id="additional_info" name="additional_info">
+                    <option value="">Select additional info</option>
+                    <option value="No info">No info</option>
+                    <option value="In-flight meal not included">In-flight meal not included</option>
+                    <option value="No check-in baggage included">No check-in baggage included</option>
+                    <option value="1 Short layover">1 Short layover</option>
+                    <option value="No Info">No Info</option>
+                    <option value="1 Long layover">1 Long layover</option>
+                    <option value="Change airports">Change airports</option>
+                    <option value="Business class">Business class</option>
+                    <option value="Red-eye flight">Red-eye flight</option>
+                    <option value="2 Long layover">2 Long layover</option>
+                </select>
+
+                <label for="total_stops">Total Stops:</label>
+                <input type="number" id="total_stops" name="total_stops" required>
+
+                <label for="date">Date (DD-MM-YYYY):</label>
+                <input type="date" id="date" name="date" required>
+
+                <label for="duration_min">Duration:</label>
+                <input type="time" id="duration_min" name="duration_min" required>
+
+                <input type="submit" value="Predict Flight Fare">
+            </form>
+        </section>
+        <section class="result-section">
+            {% if prediction_text %}
+                <p>{{ prediction_text }}</p>
+            {% endif %}
+        </section>
+    </main>
+    <footer>
+        <p>&copy;
