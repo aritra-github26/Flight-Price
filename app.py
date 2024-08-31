@@ -3,7 +3,7 @@ import datetime
 
 from src.pipelines.predict_pipeline import PredictPipeline, CustomData
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='styles')
 
 @app.route('/')
 def home():

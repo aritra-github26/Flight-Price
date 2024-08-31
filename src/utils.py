@@ -25,11 +25,12 @@ def evaluate_models(X_train, y_train, X_test, y_test, models, params):
         report = {}
         for i in range(len(list(models))):
             model = list(models.values())[i]
-            # model.fit(X_train, y_train)
             param_grid = params[list(models.keys())[i]]
             grid = GridSearchCV(model, param_grid, n_jobs=-1, cv=5, verbose=1)
             grid.fit(X_train, y_train)
-            model = grid.best_estimator_
+            # model = grid.best_estimator_
+            model.set_params(**grid.best_params_)
+            model.fit(X_train, y_train)
             y_pred = model.predict(X_test)
             r2 = r2_score(y_test, y_pred)
             report[list(models.keys())[i]] = r2
