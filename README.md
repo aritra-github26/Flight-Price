@@ -16,7 +16,7 @@ This project aims to predict flight prices using machine learning techniques. By
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/Flight-Price.git`
+1. Clone the repository: `git clone https://github.com/aritra-github26/Flight-Price.git`
 2. Navigate to the project directory: `cd Flight-Price`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
