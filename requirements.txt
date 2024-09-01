@@ -5,7 +5,7 @@ joblib
 matplotlib
 seaborn
 flask
-ipykernel
+# ipykernel
 openpyxl
 xgboost
 -e .

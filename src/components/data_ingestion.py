@@ -22,13 +22,14 @@ class DataIngestion:
     def initiate_data_ingestion(self):
         logging.info("Entered Data Ingestion Component")
         try:
-            data_path = os.path.join('notebooks', 'data', 'Flight-Price.xlsx')
+            data_path = os.path.join('dataset', 'Flight-Price.xlsx')
             df = pd.read_excel(data_path) # Dataset Loading from the source
             logging.info("Read Dataset")
             os.makedirs(os.path.dirname(self.ingestion_config.raw_data_path), exist_ok=True)
 
             # Making some necessary changes for this dataset only :)
             df = df.dropna()
+            df['Additional_Info'] = df['Additional_Info'].replace('No Info', 'No info')
             df[['Date_of_Journey']] = df[['Date_of_Journey']].apply(pd.to_datetime)
             df['day'] = df['Date_of_Journey'].dt.day.astype(int)
             df['month'] = df['Date_of_Journey'].dt.month.astype(int)
