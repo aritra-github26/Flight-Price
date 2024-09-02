@@ -24,9 +24,9 @@ To get started with this project, follow these steps:
 
 To use the flight price prediction model, follow these steps:
 
-1. Prepare your flight data in a CSV format.
-2. Load the trained model using the provided script: `python load_model.py`
-3. Provide the necessary inputs to the model, such as departure time, airline, route, etc.
+1. The model can be trained by using this command: `python src/pipelines/training_pipeline.py`
+2. Run the web-app using this command: `python app.py`
+3. Provide the necessary inputs to the model through the web-app, such as departure time, airline, source, destination, etc.
 4. Get the predicted flight price as the output.
 
 ## Data
@@ -35,11 +35,11 @@ The flight data used for this project is sourced from various airlines and trave
 
 ## Model Training
 
-The flight price prediction model is trained using a machine learning algorithm called Random Forest Regression. This algorithm is chosen for its ability to handle both numerical and categorical features effectively. The model is trained on a labeled dataset, where the flight prices are the target variable.
+The flight price prediction model is trained using a machine learning algorithm called Extreme Gradient Boosting Regression (with hyperparameter tuning by Grid Search Cross Validation). This algorithm is chosen for its ability to handle both numerical and categorical features effectively. The model is trained on a labeled dataset, where the flight prices are the target variable.
 
 ## Evaluation
 
-The performance of the flight price prediction model is evaluated using various metrics such as mean absolute error (MAE), mean squared error (MSE), and R-squared score. These metrics help assess the accuracy and reliability of the model's predictions.
+The performance of the flight price prediction model is evaluated using various metrics R-squared score. These metrics help assess the accuracy and reliability of the model's predictions.
 
 ## Contributing
 
